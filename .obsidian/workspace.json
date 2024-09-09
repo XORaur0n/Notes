@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Analyzing .evtx/Helpful Windows Event IDs.md",
+                "file": "Assembly/Untitled.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Analyzing .evtx/Helpful Windows Event IDs.md",
+                "file": "Assembly/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Analyzing .evtx/Helpful Windows Event IDs.md",
+                "file": "Assembly/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Analyzing .evtx/Helpful Windows Event IDs.md"
+                "file": "Assembly/Untitled.md"
               }
             }
           },
@@ -170,8 +170,14 @@
   },
   "active": "ae52691a340a5205",
   "lastOpenFiles": [
-    "Notes/Analyzing .evtx/Event Tracing for Windows.md",
+    "Notes/Basic Instructions & Definitions 1.md",
+    "Assembly/Untitled.md",
+    "Assembly/PowerPC",
+    "Assembly/x86",
+    "Assembly",
+    "Notes/Network Analysis/Helpful Networking.md",
     "Notes/Analyzing .evtx/Helpful Windows Event IDs.md",
+    "Notes/Analyzing .evtx/Event Tracing for Windows.md",
     "Notes/Analyzing .evtx/Useful Event Tracing Providers.md",
     "Notes/Analyzing .evtx/Windows Event Log Analysis.md",
     "Notes/Python3/If,Else, Elif & Logical Operators.md",
@@ -184,7 +190,6 @@
     "Notes/Python/Python/Function Parameters.md",
     "Notes/Python/Python/Dictionaries & Nesting.md",
     "Notes/Python/Python/Data Types.md",
-    "Notes/Network Analysis/Helpful Networking.md",
     "Notes/Penetration Testing/Persistence",
     "Notes/Penetration Testing/Post-Exploitation",
     "Notes/Penetration Testing/Lateral Movement",
@@ -192,10 +197,7 @@
     "Penetration Testing/Untitled.md",
     "Notes/Penetration Testing/Enumeration",
     "Notes/Penetration Testing/Reconaissance",
-    "Notes/Penetration Testing",
     "Images/Pasted image 20240909072150.png",
-    "Images",
-    "New folder",
     "Pasted image 20240909072150.png",
     "Notes/Network Analysis/Images/PDU.webp",
     "Notes/Bash Scripting/Untitled.md",
@@ -206,9 +208,6 @@
     "Notes/Penetration Testing/Persistence/Untitled.md",
     "Notes/Penetration Testing/Exploitation/Untitled.md",
     "Notes/Penetration Testing/Enumeration/Untitled.md",
-    "Notes/Penetration Testing/Covering Tracks/Untitled.md",
-    "Notes/Signatures/Untitled.md",
-    "Notes/PowerShell Scripting/Untitled.md",
     "Pasted image 20240909052702.png",
     "Network Analysis/Images/PDU.webp",
     "Network Analysis/Images/net_models_pdu2.webp",
