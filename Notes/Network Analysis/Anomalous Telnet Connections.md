@@ -19,7 +19,11 @@ Telnet is a much less secure alternative to SSH, many older Windows NT OS and th
 
 	Telnet through IPv6: 
 
-		Use this Wireshark filter to 
+		Use this Wireshark filter to look for Telnet traffic on specific addresses: 
+		
+		((ipv6.src_host == [IPv6 Address]) or (ipv6.dst_host == [IPv6 Address])) and telnet
+		
+		Further, still look at the data field & follow the stream if needed. 
 
 
 

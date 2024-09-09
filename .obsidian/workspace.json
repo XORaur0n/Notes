@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Network Analysis/Anomalous Telnet & UDP Connections.md",
+                "file": "Notes/Network Analysis/Anomalous Telnet Connections.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Network Analysis/Anomalous Telnet & UDP Connections.md",
+                "file": "Notes/Network Analysis/Anomalous Telnet Connections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Network Analysis/Anomalous Telnet & UDP Connections.md",
+                "file": "Notes/Network Analysis/Anomalous Telnet Connections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Network Analysis/Anomalous Telnet & UDP Connections.md"
+                "file": "Notes/Network Analysis/Anomalous Telnet Connections.md"
               }
             }
           },
@@ -171,7 +171,7 @@
   "active": "ae52691a340a5205",
   "lastOpenFiles": [
     "Notes/Network Analysis/Anomalous DNS Traffic.md",
-    "Notes/Network Analysis/Anomalous Telnet & UDP Connections.md",
+    "Notes/Network Analysis/Anomalous Telnet Connections.md",
     "Notes/Network Analysis/SSL Renegotiation Attacks.md",
     "Notes/Network Analysis/Anomalous HTTP Requests.md",
     "Notes/Network Analysis/ICMP Tunneling.md",
