@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Red Team/Binary Exploitation/Untitled.md",
+                "file": "Notes/Blue Team/Signatures/KQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Red Team/Binary Exploitation/Untitled.md",
+                "file": "Notes/Blue Team/Signatures/KQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Red Team/Binary Exploitation/Untitled.md",
+                "file": "Notes/Blue Team/Signatures/KQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Red Team/Binary Exploitation/Untitled.md"
+                "file": "Notes/Blue Team/Signatures/KQL.md"
               }
             }
           },
@@ -170,8 +170,11 @@
   },
   "active": "ae52691a340a5205",
   "lastOpenFiles": [
-    "Notes/Red Team/Bug Bounties/Untitled.md",
+    "Notes/Blue Team/Signatures/Snort.md",
+    "Notes/Blue Team/Signatures/KQL.md",
+    "Notes/Blue Team/Signatures/Sigma.md",
     "Notes/Red Team/Binary Exploitation/Untitled.md",
+    "Notes/Red Team/Bug Bounties/Untitled.md",
     "Notes/Red Team/Network Penetration Testing/Reconaissance/Untitled.md",
     "Notes/Red Team/Network Penetration Testing/Privilege Escalation/Untitled.md",
     "Notes/Red Team/Network Penetration Testing/Post-Exploitation/Untitled.md",
@@ -203,9 +206,6 @@
     "Notes/Blue Team/Network Analysis/Helpful Networking.md",
     "Notes/Blue Team/Network Analysis/Web Fuzzing.md",
     "Notes/Blue Team/Network Analysis/Fragmentation Attacks.md",
-    "Notes/Blue Team/Network Analysis/Deauthentication Attacks.md",
-    "Notes/Blue Team/Network Analysis/ARP Spoofing.md",
-    "Notes/Blue Team/Network Analysis/Rogue AP & Evil-Twin Attacks.md",
     "Images/Pasted image 20240909072150.png",
     "Pasted image 20240909072150.png",
     "Notes/Network Analysis/Images/PDU.webp",
