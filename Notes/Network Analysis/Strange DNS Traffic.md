@@ -23,6 +23,23 @@ Used when the client knows the FQDN, but not the IP address.
 -----------------------------------------
 
 
-**DNS Reverse Lookup:** 
+**DNS Reverse Lookup:**
+
+Used when the client knows the IP address but wants to find the FQDN.
+
+
+| Step                    | Description                                                                                                                                                                                                           |
+|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. Query Initiation     | The client sends a DNS reverse query to its configured DNS resolver (server) with the IP address it wants to find the domain name.                                                                                    |
+| 2. Reverse Lookup Zones | The DNS resolver checks if it is authoritative for the reverse lookup zone that corresponds to the IP range as determined by the received IP address. Aka 192.0.2.1, the reverse zone would be 1.2.0.192.in-addr.arpa |
+| 3. PTR Record Query     | The DNS resolver then looks for a PTR (pointer) record on the reverse lookup zone that corresponds to the provided IP address.                                                                                        |
+| 4. Response             | If a matching PTR is found, the DNS server (resolver) then returns the FQDN of the IP for the client.                                                                                                                 |
+
+
+-----------------------------------------
+
+
+**DNS Record Types:** 
+
 
 
