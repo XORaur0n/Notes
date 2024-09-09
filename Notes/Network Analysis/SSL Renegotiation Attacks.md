@@ -28,3 +28,16 @@ HTTPS, unlike HTTP is a stateful protocol - meaning it incorporates encryption i
 
 **SSL & TLS Session:** 
 
+	Client Hello: 
+	
+		The message contains TLS/SSL versions supported, encryption type that will be used, and nonce (number to be used once) to be used in later steps. 
+
+
+	Server Hello: 
+	
+		The message includes TLS/SSL version chosen, encryption type, and nonce
+
+	
+	Certificate Exchange: The server sends a digital certificate to the client to prove it 
+
+
