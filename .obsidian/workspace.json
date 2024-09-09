@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Network Analysis/ICMP Tunneling.md",
+                "file": "Notes/Network Analysis/Web Fuzzing.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Network Analysis/ICMP Tunneling.md",
+                "file": "Notes/Network Analysis/Web Fuzzing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Network Analysis/ICMP Tunneling.md",
+                "file": "Notes/Network Analysis/Web Fuzzing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Network Analysis/ICMP Tunneling.md"
+                "file": "Notes/Network Analysis/Web Fuzzing.md"
               }
             }
           },
@@ -170,16 +170,17 @@
   },
   "active": "ae52691a340a5205",
   "lastOpenFiles": [
-    "Notes/Network Analysis/TCP RST Attacks & Connection Hijacking.md",
-    "Notes/Network Analysis/ICMP Tunneling.md",
-    "Notes/Network Analysis/Three-Way Handshake Anomalies.md",
-    "Notes/Network Analysis/ARP Spoofing.md",
-    "Notes/Network Analysis/IP TTL Attacks.md",
-    "Notes/Network Analysis/IP Source & Destination Spoofing Attacks.md",
+    "Notes/Network Analysis/Helpful Networking.md",
     "Notes/Network Analysis/Fragmentation Attacks.md",
     "Notes/Network Analysis/Deauthentication Attacks.md",
+    "Notes/Network Analysis/ARP Spoofing.md",
     "Notes/Network Analysis/Rogue AP & Evil-Twin Attacks.md",
-    "Notes/Network Analysis/Helpful Networking.md",
+    "Notes/Network Analysis/TCP RST Attacks & Connection Hijacking.md",
+    "Notes/Network Analysis/Three-Way Handshake Anomalies.md",
+    "Notes/Network Analysis/ICMP Tunneling.md",
+    "Notes/Network Analysis/Web Fuzzing.md",
+    "Notes/Network Analysis/IP TTL Attacks.md",
+    "Notes/Network Analysis/IP Source & Destination Spoofing Attacks.md",
     "Notes/Assembly/x86/Basic Instructions & Definitions.md",
     "Notes/Analyzing .evtx/Windows Event Log Analysis.md",
     "Notes/Analyzing .evtx/Useful Event Tracing Providers.md",
@@ -200,7 +201,6 @@
     "Notes/Python3/Randomization and Lists.md",
     "Notes/Python3",
     "Notes/Python3/Functions with Outputs.md",
-    "Notes/Python/Python/Function Parameters.md",
     "Notes/Penetration Testing/Persistence",
     "Notes/Penetration Testing/Post-Exploitation",
     "Notes/Penetration Testing/Lateral Movement",

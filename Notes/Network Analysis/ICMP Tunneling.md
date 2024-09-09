@@ -16,4 +16,4 @@ The attacker will add data for exfiltration within the data field of a common IC
 
 	Look at transiting data, see if anything strange (credentials) are being pinged to an external/internal host. 
 
-	Further, if an attacker is tryin
+	Further, if an attacker is trying obfuscate their traffic - see if anything is encoded within the packet. 
