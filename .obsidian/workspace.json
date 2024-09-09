@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Analyzing .evtx/Event Tracing for Windows.md",
+                "file": "Notes/Analyzing .evtx/Helpful Windows Event IDs.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Analyzing .evtx/Event Tracing for Windows.md",
+                "file": "Notes/Analyzing .evtx/Helpful Windows Event IDs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Analyzing .evtx/Event Tracing for Windows.md",
+                "file": "Notes/Analyzing .evtx/Helpful Windows Event IDs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Analyzing .evtx/Event Tracing for Windows.md"
+                "file": "Notes/Analyzing .evtx/Helpful Windows Event IDs.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "ae52691a340a5205",
   "lastOpenFiles": [
+    "Notes/Analyzing .evtx/Event Tracing for Windows.md",
     "Notes/Analyzing .evtx/Helpful Windows Event IDs.md",
     "Notes/Analyzing .evtx/Useful Event Tracing Providers.md",
     "Notes/Analyzing .evtx/Windows Event Log Analysis.md",
@@ -208,7 +209,6 @@
     "Notes/Penetration Testing/Covering Tracks/Untitled.md",
     "Notes/Signatures/Untitled.md",
     "Notes/PowerShell Scripting/Untitled.md",
-    "Notes/Helpful Linux Commands/Untitled.md",
     "Pasted image 20240909052702.png",
     "Network Analysis/Images/PDU.webp",
     "Network Analysis/Images/net_models_pdu2.webp",
