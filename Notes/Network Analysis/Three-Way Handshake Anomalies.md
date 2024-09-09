@@ -21,4 +21,6 @@
 
 	Excessive SYN flags: 
 
-		Usually a result of network scanning. Look for signs of SYN scans & SYN Stealth Scans 
+		Usually a result of network scanning. Look for signs of SYN scans & SYN Stealth Scans
+
+
