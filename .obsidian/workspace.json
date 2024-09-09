@@ -11,11 +11,10 @@
             "id": "288c9f43596c2253",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Notes/Bash Scripting/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes/Pentest Notes",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Bash Scripting/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Bash Scripting/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Bash Scripting/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,15 +152,15 @@
   },
   "active": "acb270e06873b2de",
   "lastOpenFiles": [
-    "Notes/C/Untitled.md",
     "Notes/Bash Scripting/Untitled.md",
+    "Notes/C/Untitled.md",
     "Notes/Forensics/Untitled.md",
-    "Notes/Pentest Notes/Reconnaissance/Untitled.md",
-    "Notes/Pentest Notes/Post-Exploitation/Untitled.md",
-    "Notes/Pentest Notes/Persistence/Untitled.md",
-    "Notes/Pentest Notes/Exploitation/Untitled.md",
-    "Notes/Pentest Notes/Enumeration/Untitled.md",
-    "Notes/Pentest Notes/Covering Tracks/Untitled.md",
+    "Notes/Penetration Testing/Reconnaissance/Untitled.md",
+    "Notes/Penetration Testing/Post-Exploitation/Untitled.md",
+    "Notes/Penetration Testing/Persistence/Untitled.md",
+    "Notes/Penetration Testing/Exploitation/Untitled.md",
+    "Notes/Penetration Testing/Enumeration/Untitled.md",
+    "Notes/Penetration Testing/Covering Tracks/Untitled.md",
     "Notes/Signatures/Untitled.md",
     "Notes/PowerShell Scripting/Untitled.md",
     "Notes/Helpful Linux Commands/Untitled.md",
@@ -189,9 +184,9 @@
     "Notes/Python/Python",
     "Notes/Python",
     "Notes/PowerShell Scripting",
-    "Notes/Pentest Notes/Post-Exploitation",
-    "Notes/Pentest Notes/Reconnaissance",
-    "Notes/Pentest Notes/Persistence",
+    "Notes/Penetration Testing/Post-Exploitation",
+    "Notes/Penetration Testing/Reconnaissance",
+    "Notes/Penetration Testing/Persistence",
     "Notes/Assembly/x86/Basic Instructions & Definitions.md",
     "Notes/Analyzing .evtx/Windows Event Log Analysis.md",
     "Pasted image 20240909052702.png",
