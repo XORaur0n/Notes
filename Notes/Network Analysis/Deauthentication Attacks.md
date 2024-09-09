@@ -1,5 +1,5 @@
 
-Attacker will fabricate an 8902.11 deuth frame and masquerade it as one originating from a legitimate AP
+Attacker will fabricate an 802.11 deuth frame and masquerade it as one originating from a legitimate AP
 
 In doing so, the attacker might be able to disconnect one of the clients from the network.
 
