@@ -20,4 +20,11 @@
 
 	Analyzing beacons is the best way to deconflict between genuine & rogue APs. 
 
-	Most evil twin attacks 
+	Most evil twin attacks are devoid of Robust Security Network (RSN) information.
+
+	Always make sure to check other fields for discrepancies as some attackers may use the same cipher as the network's AP to avoid detection. 
+
+	To find a victim use: 
+		(wlan.bssid == [Suspicious MAC Address])
+
+	Make sure to check network devices & scrutinize WiFi networks in proximity to the network. If a networ
