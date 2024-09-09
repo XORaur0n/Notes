@@ -24,3 +24,10 @@
 		Usually a result of network scanning. Look for signs of SYN scans & SYN Stealth Scans
 
 
+	No flags: Look for NULL scans. If the port is open, the host will not respond. If the port is closed, the host will respond with a RST. 
+
+
+	Excessive ACK flags: Look for ACK scans. If the port is open the host will not respond/or respond with a RST. If the port is closed the host will respond with a RST. 
+
+
+	Excessive FINs: Look for FIN scans. If the port is open the host will not respond. If the port is closed the host will respond with a rest. 
