@@ -35,9 +35,20 @@ HTTPS, unlike HTTP is a stateful protocol - meaning it incorporates encryption i
 
 	Server Hello: 
 	
-		The message includes TLS/SSL version chosen, encryption type, and nonce
+		The message includes TLS/SSL version chosen, encryption type, and nonce.
 
 	
-	Certificate Exchange: The server sends a digital certificate to the client to prove it 
+	Certificate Exchange: The server sends a digital certificate to the client to prove its identity, this includes the server's public key and sends it to the server. 
+
+
+	Key Exchange: 
+
+		The client generates the premaster secret, then encrypts is using the server's public key to determine the session keys. 
+
+
+	Session Key Derivation: The client & server use the nonces, along with the premaster secret to compute the session keys. The keys are used for encryption & decryption of data during the secure connection. 
+
+
+	Finished Messages: To verify the handshake is successfully complete, both parties have the correct session keys, trhe client & server exchange finished messages. The message contains the hash of all previous handshake messages an
 
 
