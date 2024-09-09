@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Team/Analyzing .evtx/Event Tracing for Windows.md",
+                "file": "Notes/Red Team/AD Penetration Testing/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Blue Team/Analyzing .evtx/Event Tracing for Windows.md",
+                "file": "Notes/Red Team/AD Penetration Testing/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Blue Team/Analyzing .evtx/Event Tracing for Windows.md",
+                "file": "Notes/Red Team/AD Penetration Testing/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Team/Analyzing .evtx/Event Tracing for Windows.md"
+                "file": "Notes/Red Team/AD Penetration Testing/Untitled.md"
               }
             }
           },
@@ -170,13 +170,19 @@
   },
   "active": "acb270e06873b2de",
   "lastOpenFiles": [
+    "Notes/Red Team/Bug Bounties",
+    "Notes/Red Team/Binary Exploitation",
+    "Notes/Red Team/Web App Penetration Testing/Untitled.md",
+    "Notes/Red Team/AD Penetration Testing/Untitled.md",
+    "Notes/Blue Team/Analyzing .evtx/Event Tracing for Windows.md",
+    "Notes/Red Team/Web App Penetration Testing",
     "Notes/Programming & Scripting",
     "Notes/Helpful Commands",
-    "Notes/Red Team/Penetration Testing/Active Directory",
+    "Notes/Red Team/AD Penetration Testing",
     "Notes/Red Team",
     "Notes/Blue Team",
-    "Notes/Regular Expressions (Regex)",
-    "Notes/Red Team/Penetration Testing/Privilege Escalation",
+    "Notes/Helpful Commands/Regular Expressions (Regex)",
+    "Notes/Red Team/Network Penetration Testing/Privilege Escalation",
     "Notes/Blue Team/SIEM",
     "Notes/Blue Team/Analyzing .evtx/Helpful Windows Event IDs.md",
     "Notes/Blue Team/Analyzing .evtx/Useful Event Tracing Providers.md",
@@ -197,15 +203,9 @@
     "Notes/Blue Team/Network Analysis/IP TTL Attacks.md",
     "Notes/Blue Team/Network Analysis/IP Source & Destination Spoofing Attacks.md",
     "Notes/Programming & Scripting/Assembly/x86/Basic Instructions & Definitions.md",
-    "Notes/Blue Team/Analyzing .evtx/Event Tracing for Windows.md",
     "Notes/Programming & Scripting/Assembly/ARM/Untitled.md",
     "Notes/Programming & Scripting/Assembly/PowerPC/Untitled.md",
     "Notes/Assembly/x86/Untitled.md",
-    "Notes/Programming & Scripting/Assembly/ARM",
-    "Assembly/Untitled.md",
-    "Notes/Programming & Scripting/Assembly/PowerPC",
-    "Notes/Programming & Scripting/Assembly/x86",
-    "Notes/Programming & Scripting/Python3/If,Else, Elif & Logical Operators.md",
     "Images/Pasted image 20240909072150.png",
     "Pasted image 20240909072150.png",
     "Notes/Network Analysis/Images/PDU.webp",
