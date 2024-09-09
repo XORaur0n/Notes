@@ -52,3 +52,29 @@
 			Look for responses from multiple closed ports, as the RST flags will point towards the attacker address. 
 
 
+	
+	Random Source Attack DDOS: 
+
+		Look for: 
+
+			Single port utilization from different hosts
+
+			Incremental base port with a lack of randomization
+
+			Identical length fields
+
+
+
+	SMURF Attacks: 
+
+		Look for: 
+
+			An excessive amount of ICMP replies from one host to the affected host. Also pay attention to if the request has any data/fragmentation
+
+
+
+	LAND Attacks: 
+
+		Look for: 
+
+			All base ports being occupied
