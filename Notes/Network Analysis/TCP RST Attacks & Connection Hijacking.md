@@ -1,6 +1,6 @@
 
 
-**TCP Connection Termination:** 
+**TCP RST Attack:** 
 
 The attacker will spoof the source address to be the victim's. 
 
@@ -24,5 +24,9 @@ The attacker will block ACKs from reaching the host in order to continue the hij
 **Detecting Attacks:** 
 
 
-TCP Connection Termination 
+TCP RST Attacks: 
+
+	Check MAC addresses to notice any differences/anomalous MACs. 
+
+	Look retransmissions in case the MAC is spoofed. Employ methods that you would for ARP Spoofing
 
