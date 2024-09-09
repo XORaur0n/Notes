@@ -170,6 +170,7 @@
   },
   "active": "acb270e06873b2de",
   "lastOpenFiles": [
+    "Notes/Penetration Testing/Privilege Escalation",
     "Notes/SIEM",
     "Notes/Analyzing .evtx/Helpful Windows Event IDs.md",
     "Notes/Analyzing .evtx/Useful Event Tracing Providers.md",
@@ -205,7 +206,6 @@
     "Notes/Penetration Testing/Post-Exploitation",
     "Notes/Penetration Testing/Lateral Movement",
     "Notes/Penetration Testing/Exploitation",
-    "Notes/Penetration Testing/Enumeration",
     "Images/Pasted image 20240909072150.png",
     "Pasted image 20240909072150.png",
     "Notes/Network Analysis/Images/PDU.webp",
