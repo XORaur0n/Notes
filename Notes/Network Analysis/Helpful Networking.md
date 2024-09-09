@@ -126,3 +126,18 @@ Helpful Capture Filters:
 | broadcast / multicast / unicast | Grabs a specific type of traffic. one to one, one to many, or one to all.                                            |
 
 
+Helpful Display Filters: 
+
+| ip.addr == x.x.x.x         | Capture only traffic pertaining to a certain host. This is an OR statement.                   |
+|----------------------------|-----------------------------------------------------------------------------------------------|
+| ip.addr == x.x.x.x/24      | Capture traffic pertaining to a specific network. This is an OR statement.                    |
+| ip.src/dst == x.x.x.x      | Capture traffic to or from a specific host                                                    |
+| dns / tcp / ftp / arp / ip | filter traffic by a specific protocol. There are many more options.                           |
+| tcp.port == x              | filter by a specific tcp port.                                                                |
+| tcp.port / udp.port != x   | will capture everything except the port specified                                             |
+| and / or / not             | AND will concatenate, OR will find either of two options, NOT will exclude your input option. |
+
+
+
+
+
