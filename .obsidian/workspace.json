@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Red Team/Network Penetration Testing/Reconaissance/Untitled.md",
+                "file": "Notes/Red Team/Binary Exploitation/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Red Team/Network Penetration Testing/Reconaissance/Untitled.md",
+                "file": "Notes/Red Team/Binary Exploitation/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Red Team/Network Penetration Testing/Reconaissance/Untitled.md",
+                "file": "Notes/Red Team/Binary Exploitation/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Red Team/Network Penetration Testing/Reconaissance/Untitled.md"
+                "file": "Notes/Red Team/Binary Exploitation/Untitled.md"
               }
             }
           },
@@ -170,8 +170,10 @@
   },
   "active": "ae52691a340a5205",
   "lastOpenFiles": [
-    "Notes/Red Team/Network Penetration Testing/Privilege Escalation/Untitled.md",
+    "Notes/Red Team/Bug Bounties/Untitled.md",
+    "Notes/Red Team/Binary Exploitation/Untitled.md",
     "Notes/Red Team/Network Penetration Testing/Reconaissance/Untitled.md",
+    "Notes/Red Team/Network Penetration Testing/Privilege Escalation/Untitled.md",
     "Notes/Red Team/Network Penetration Testing/Post-Exploitation/Untitled.md",
     "Notes/Red Team/Network Penetration Testing/Persistence/Untitled.md",
     "Notes/Red Team/Network Penetration Testing/Lateral Movement/Untitled.md",
@@ -204,8 +206,6 @@
     "Notes/Blue Team/Network Analysis/Deauthentication Attacks.md",
     "Notes/Blue Team/Network Analysis/ARP Spoofing.md",
     "Notes/Blue Team/Network Analysis/Rogue AP & Evil-Twin Attacks.md",
-    "Notes/Blue Team/Network Analysis/TCP RST Attacks & Connection Hijacking.md",
-    "Notes/Blue Team/Network Analysis/Three-Way Handshake Anomalies.md",
     "Images/Pasted image 20240909072150.png",
     "Pasted image 20240909072150.png",
     "Notes/Network Analysis/Images/PDU.webp",
