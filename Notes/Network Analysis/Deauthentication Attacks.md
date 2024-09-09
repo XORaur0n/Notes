@@ -1,11 +1,11 @@
 
-	Attacker will fabricate an 8902.11 deuth frame and masquerade it as one originating from a legitimate AP
+Attacker will fabricate an 8902.11 deuth frame and masquerade it as one originating from a legitimate AP
 
-	In doing so, the attacker might be able to disconnect one of the clients from the network.
+In doing so, the attacker might be able to disconnect one of the clients from the network.
 
-	Often times, the client will attempt to reconnect while the attacker is sniffing packets. 
+Often times, the client will attempt to reconnect while the attacker is sniffing packets. 
 
-	This attack operates by the attacker spoofing or altering the MAC of the frame's sender. The client device cannot really discern the difference without additional controls like IEEE 802.11w (Management Frame Protection). Each deauthentication request is associated with a reason code explaining why the client is being disconnected.
+This attack operates by the attacker spoofing or altering the MAC of the frame's sender. The client device cannot really discern the difference without additional controls like IEEE 802.11w (Management Frame Protection). Each deauthentication request is associated with a reason code explaining why the client is being disconnected.
 
 **Detecting Deauthentication Attacks:** 
 
