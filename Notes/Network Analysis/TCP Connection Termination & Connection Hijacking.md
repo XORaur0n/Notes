@@ -10,11 +10,19 @@ An attacker will specify that the destination port is the same as the one curren
 
 -----------------------------------------
 
-TCP Connection Hijacking: 
+**TCP Connection Hijacking:** 
 
 Attacker will conduct sequence number prediction in order to inject malicious packets in the correct order. 
 
 Attacker will spoof the source address to be the same as the victim's. 
 
 The attacker will block ACKs from reaching the host in order to continue the hijacking. This can be done by delaying or outright denying the ACK packets. 
+
+-----------------------------------------
+
+
+**Detecting Attacks:** 
+
+
+TCP Connection Termination 
 
