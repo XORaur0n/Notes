@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Red Team/AD Penetration Testing/Untitled.md",
+                "file": "Notes/Red Team/Network Penetration Testing/Reconaissance/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Red Team/AD Penetration Testing/Untitled.md",
+                "file": "Notes/Red Team/Network Penetration Testing/Reconaissance/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Red Team/AD Penetration Testing/Untitled.md",
+                "file": "Notes/Red Team/Network Penetration Testing/Reconaissance/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Red Team/AD Penetration Testing/Untitled.md"
+                "file": "Notes/Red Team/Network Penetration Testing/Reconaissance/Untitled.md"
               }
             }
           },
@@ -168,12 +168,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acb270e06873b2de",
+  "active": "ae52691a340a5205",
   "lastOpenFiles": [
+    "Notes/Red Team/Network Penetration Testing/Privilege Escalation/Untitled.md",
+    "Notes/Red Team/Network Penetration Testing/Reconaissance/Untitled.md",
+    "Notes/Red Team/Network Penetration Testing/Post-Exploitation/Untitled.md",
+    "Notes/Red Team/Network Penetration Testing/Persistence/Untitled.md",
+    "Notes/Red Team/Network Penetration Testing/Lateral Movement/Untitled.md",
+    "Notes/Red Team/Network Penetration Testing/Exploitation/Untitled.md",
+    "Notes/Red Team/Network Penetration Testing/Enumeration/Untitled.md",
+    "Notes/Red Team/AD Penetration Testing/Untitled.md",
     "Notes/Red Team/Bug Bounties",
     "Notes/Red Team/Binary Exploitation",
     "Notes/Red Team/Web App Penetration Testing/Untitled.md",
-    "Notes/Red Team/AD Penetration Testing/Untitled.md",
     "Notes/Blue Team/Analyzing .evtx/Event Tracing for Windows.md",
     "Notes/Red Team/Web App Penetration Testing",
     "Notes/Programming & Scripting",
@@ -183,7 +190,6 @@
     "Notes/Blue Team",
     "Notes/Helpful Commands/Regular Expressions (Regex)",
     "Notes/Red Team/Network Penetration Testing/Privilege Escalation",
-    "Notes/Blue Team/SIEM",
     "Notes/Blue Team/Analyzing .evtx/Helpful Windows Event IDs.md",
     "Notes/Blue Team/Analyzing .evtx/Useful Event Tracing Providers.md",
     "Notes/Blue Team/Analyzing .evtx/Windows Event Log Analysis.md",
@@ -200,12 +206,6 @@
     "Notes/Blue Team/Network Analysis/Rogue AP & Evil-Twin Attacks.md",
     "Notes/Blue Team/Network Analysis/TCP RST Attacks & Connection Hijacking.md",
     "Notes/Blue Team/Network Analysis/Three-Way Handshake Anomalies.md",
-    "Notes/Blue Team/Network Analysis/IP TTL Attacks.md",
-    "Notes/Blue Team/Network Analysis/IP Source & Destination Spoofing Attacks.md",
-    "Notes/Programming & Scripting/Assembly/x86/Basic Instructions & Definitions.md",
-    "Notes/Programming & Scripting/Assembly/ARM/Untitled.md",
-    "Notes/Programming & Scripting/Assembly/PowerPC/Untitled.md",
-    "Notes/Assembly/x86/Untitled.md",
     "Images/Pasted image 20240909072150.png",
     "Pasted image 20240909072150.png",
     "Notes/Network Analysis/Images/PDU.webp",
