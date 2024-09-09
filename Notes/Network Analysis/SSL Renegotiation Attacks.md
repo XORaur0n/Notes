@@ -1,6 +1,6 @@
 
 
-HTTPS, unlike HTTP is a stateful protocol - meaning it incorporates encryption in the form of TLS & SSL. 
+HTTPS, unlike HTTP is much more secure - meaning it incorporates encryption in the form of TLS & SSL. 
 
 -----------------------------------------
 
@@ -46,9 +46,25 @@ HTTPS, unlike HTTP is a stateful protocol - meaning it incorporates encryption i
 		The client generates the premaster secret, then encrypts is using the server's public key to determine the session keys. 
 
 
-	Session Key Derivation: The client & server use the nonces, along with the premaster secret to compute the session keys. The keys are used for encryption & decryption of data during the secure connection. 
+	Session Key Derivation: 
+	
+		The client & server use the nonces, along with the premaster secret to compute the session keys. The keys are used for encryption & decryption of data during the secure connection. 
 
 
-	Finished Messages: To verify the handshake is successfully complete, both parties have the correct session keys, trhe client & server exchange finished messages. The message contains the hash of all previous handshake messages an
+	Finished Messages: 
+	
+		To verify the handshake is successfully complete, both parties have the correct session keys, trhe client & server exchange finished messages. The message contains the hash of all previous handshake messages and is encrypted using the session keys. 
 
 
+	Secure Data Exchange: Given the handshake is complete, the client & server can now exchange data over the encrypted channel. 
+
+-----------------------------------------
+
+**SSL Renegotiation Attacks:** 
+
+	An attacker will attempt to negotiate the session down to the weakest possible encryption standard. 
+
+-----------------------------------------
+
+
+**Detecting Attacks:** 
