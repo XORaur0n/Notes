@@ -38,7 +38,7 @@
 -----------------------------------------
 
 
-**Finding Attacks:** 
+**Detecting Attacks:** 
 
 
 	Decoy Scanning: 
