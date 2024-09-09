@@ -76,7 +76,7 @@ Common Flags:
 | w file.pcap	 | Write into a file<br>                                                                                                  |
 
 
-**Helpful TCPDump Filters:** 
+**Helpful Filters:** 
 
 
 | host                  | host will filter visible traffic to show anything involving the designated host. Bi-directional               |
@@ -95,4 +95,34 @@ Common Flags:
 **TShark**:  
 
 Flags: 
+
+| D             | Will display any interfaces available to capture from and then exit out.                                          |
+|---------------|-------------------------------------------------------------------------------------------------------------------|
+| L             | Will list the Link-layer mediums you can capture from and then exit out. (ethernet as an example)                 |
+| i             | choose an interface to capture from. (-i eth0)                                                                    |
+| f             | packet filter in libpcap syntax. Used during capture.                                                             |
+| c             | Grab a specific number of packets, then quit the program. Defines a stop condition.                               |
+| a             | Defines an autostop condition. Can be after a duration, specific file size, or after a certain number of packets. |
+| r (pcap-file) | Read from a file.                                                                                                 |
+| W (pcap-file) | Write into a file using the pcapng format.                                                                        |
+| P             | Will print the packet summary while writing into a file (-W)                                                      |
+| x             | will add Hex and ASCII output into the capture.                                                                   |
+| h             | See the help menu                                                                                                 |
+
+
+**Wireshark:**
+
+Helpful Capture Filters: 
+
+| host x.x.x.x                    | Capture only traffic pertaining to a certain host                                                                    |
+|---------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| net x.x.x.x/24                  | Capture traffic to or from a specific network (using slash notation to specify the mask)                             |
+| src/dst net x.x.x.x/24          | Using src or dst net will only capture traffic sourcing from the specified network or destined to the target network |
+| port #                          | will filter out all traffic except the port you specify                                                              |
+| not port #                      | will capture everything except the port specified                                                                    |
+| port # and #                    | AND will concatenate your specified ports                                                                            |
+| portrange x-x                   | portrange will grab traffic from all ports within the range only                                                     |
+| ip / ether / tcp                | These filters will only grab traffic from specified protocol headers.                                                |
+| broadcast / multicast / unicast | Grabs a specific type of traffic. one to one, one to many, or one to all.                                            |
+
 
