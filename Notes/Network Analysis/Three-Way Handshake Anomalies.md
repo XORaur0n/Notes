@@ -33,4 +33,4 @@
 	Excessive FINs: Look for FIN scans. If the port is open the host will not respond. If the port is closed the host will respond with a rest. 
 
 
-	Excessive flags
+	Excessive flags: Look for christmas tree scans. If the port is open the host will nto respond or repond with a RST. If the port is closed the hsot will respond with a RST
