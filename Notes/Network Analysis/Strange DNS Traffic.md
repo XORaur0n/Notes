@@ -42,4 +42,14 @@ Used when the client knows the IP address but wants to find the FQDN.
 **DNS Record Types:** 
 
 
+| Record Type              | Description                                                                                             |
+|--------------------------|---------------------------------------------------------------------------------------------------------|
+| A (Address)              | This record maps a domain name to an IPv4 address                                                       |
+| AAAA (Ipv6 Address)      | This record maps a domain name to an IPv6 address                                                       |
+| CNAME (Canonical Name)   | This record creates an alias for the domain name. Aka hello.com = world.com                             |
+| MX (Mail Exchange)       | This record specifies the mail server responsible for receiving email messages on behalf of the domain. |
+| NS (Name Server)         | This specifies an authoritative name servers for a domain.                                              |
+| PTR (Pointer)            | This is used in reverse queries to map an IP to a domain name                                           |
+| TXT (Text)               | This is used to specify text associated with the domain                                                 |
+| SOA (Start of Authority) | This contains administrative information about the zone                                                 |
 
