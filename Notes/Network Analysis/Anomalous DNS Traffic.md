@@ -62,4 +62,4 @@ Used when the client knows the IP address but wants to find the FQDN.
 	
 		Filter by DNS, check records, zone transfers, look for conclusions that end with ANY. 
 
-	DNS Tunneling: 
+	DNS Tunneling: Filter by DNS, look at Answers field and look for strings (maybe encoded?). 

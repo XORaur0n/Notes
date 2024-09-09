@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Network Analysis/Strange DNS Traffic.md",
+                "file": "Notes/Network Analysis/Anomalous Telnet & UDP Connections.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Network Analysis/Strange DNS Traffic.md",
+                "file": "Notes/Network Analysis/Anomalous Telnet & UDP Connections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Network Analysis/Strange DNS Traffic.md",
+                "file": "Notes/Network Analysis/Anomalous Telnet & UDP Connections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Network Analysis/Strange DNS Traffic.md"
+                "file": "Notes/Network Analysis/Anomalous Telnet & UDP Connections.md"
               }
             }
           },
@@ -170,11 +170,12 @@
   },
   "active": "ae52691a340a5205",
   "lastOpenFiles": [
-    "Notes/Network Analysis/ICMP Tunneling.md",
-    "Notes/Network Analysis/Helpful Networking.md",
-    "Notes/Network Analysis/Strange DNS Traffic.md",
+    "Notes/Network Analysis/Anomalous DNS Traffic.md",
+    "Notes/Network Analysis/Anomalous Telnet & UDP Connections.md",
     "Notes/Network Analysis/SSL Renegotiation Attacks.md",
     "Notes/Network Analysis/Anomalous HTTP Requests.md",
+    "Notes/Network Analysis/ICMP Tunneling.md",
+    "Notes/Network Analysis/Helpful Networking.md",
     "Notes/Network Analysis/Web Fuzzing.md",
     "Notes/Network Analysis/Fragmentation Attacks.md",
     "Notes/Network Analysis/Deauthentication Attacks.md",
@@ -199,7 +200,6 @@
     "Notes/Assembly",
     "Notes/Python3/If,Else, Elif & Logical Operators.md",
     "Notes/Python3/Function Parameters.md",
-    "Notes/Python3/Dictionaries & Nesting.md",
     "Notes/Python3",
     "Notes/Penetration Testing/Persistence",
     "Notes/Penetration Testing/Post-Exploitation",
