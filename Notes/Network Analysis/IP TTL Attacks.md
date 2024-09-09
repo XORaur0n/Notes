@@ -15,6 +15,6 @@ When the packets expire, the routers along the path generate ICMP Time Exceeded 
 **Detecting Attacks:** 
 
 
-	Look for
+	Look for extremly low TTL packets
 
 
