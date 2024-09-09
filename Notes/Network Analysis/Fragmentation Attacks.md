@@ -22,5 +22,20 @@ These fields contain the origination (source) and destination IP addresses for t
 Fragmentation Abuse: 
 
 
-Fragmentation exists to allow legitimate networks 
+Fragmentation exists to allow legitimate networks a means to communicate large data sets by splitting packets and reassembling them upon delivery. 
+
+Attackers abuse fragmentation for the following reasons: 
+
+	IDS/IPS Evasion: 
+
+		If an IDS/IPS does nto reassemble fragmented packets, an attacker could fragment their packets and have them reassembled upon delivery. 
+
+
+	Firewall Evasion: 
+		If the firewall does not reassemble packets during travel, the same thing as the above could occur. 
+
+
+	Firewall/IPS/IDS Resource Exhaustion: 
+
+		If an attacker fragmented packets of a very small MTU (10, 15,20, etc.) 
 

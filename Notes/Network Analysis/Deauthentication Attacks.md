@@ -7,7 +7,7 @@ Often times, the client will attempt to reconnect while the attacker is sniffing
 
 This attack operates by the attacker spoofing or altering the MAC of the frame's sender. The client device cannot really discern the difference without additional controls like IEEE 802.11w (Management Frame Protection). Each deauthentication request is associated with a reason code explaining why the client is being disconnected.
 
-**Detecting Deauthentication Attacks:** 
+**Detecting Attacks:** 
 
 	In order to see traffic from the AP's BSSID use: 
 		
