@@ -60,6 +60,6 @@ Used when the client knows the IP address but wants to find the FQDN.
 
 	DNS Enumeration: 
 	
-		Filter by DNS, check records, zone transfers, look for conclusions that end with ANY. 
+		Filter by DNS, check records, zone transfers, look for conclusions that end with ANY, follow the TCP stream. 
 
-	DNS Tunneling: Filter by DNS, look at Answers field and look for strings (maybe encoded?). 
+	DNS Tunneling: Filter by DNS, look at Answers field and look for strings (maybe encoded?), follow the TCP stream. 
