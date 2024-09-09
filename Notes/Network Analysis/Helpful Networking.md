@@ -8,6 +8,8 @@
 		Anycast: Addresses for multiple interfaces, where only one of them receives the packet.
 		Multicast: Addresses for multiple interfaces, where all of them receive the same packet.
 
+-----------------------------------------
+
 HTTP Methods: 
 		
 	HEAD: *Required* is a safe method that requests a response from the server similar to a Get request except that the message body is not included. It is a great way to acquire more information about the server and its operational status.
@@ -26,6 +28,8 @@ HTTP Methods:
 
 	CONNECT: Optional Connect is reserved for use with Proxies or other security devices like firewalls. Connect allows for tunneling over HTTP. (SSL tunnels)
 
+-----------------------------------------
+
 **HTTPS Handshake:** 
 
 	Client and server exchange hello messages to agree on connection parameters.
@@ -40,6 +44,9 @@ HTTP Methods:
     
     Client and server verify that their peer has calculated the same security parameters and that the handshake occurred without tampering by an attacker.
 
+
+-----------------------------------------
+
 **FTP Methods:** 
 
 	USER: Specifies the user to log in as.
@@ -52,6 +59,9 @@ HTTP Methods:
 	SIZE	Will return the size of a file specified.
 	RETR	Retrieves the file from the FTP server.
 	QUIT	Ends the session.
+
+
+-----------------------------------------
 
 
 **TCPDump:** 
@@ -73,7 +83,10 @@ Common Flags:
 | S            | change relative sequence numbers in the capture display to absolute sequence numbers. (13248765839 instead of 101)<br> |
 | q            | Print less protocol information.<br>                                                                                   |
 | r file.pcap	 | Read from a file.<br>                                                                                                  |
-| w file.pcap	 | Write into a file<br>                                                                                                  |
+| w file.pcap	 | Write into a file<br>  
+
+
+-----------------------------------------------
 
 
 **Helpful Filters:** 
