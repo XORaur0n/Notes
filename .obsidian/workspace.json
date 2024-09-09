@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python3/Randomization and Lists.md",
+                "file": "Notes/Python3/Randomization and Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python3/Function Parameters.md",
+                "file": "Notes/Python3/Function Parameters.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python3/Function Parameters.md",
+                "file": "Notes/Python3/Function Parameters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python3/Function Parameters.md",
+                "file": "Notes/Python3/Function Parameters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python3/Function Parameters.md"
+                "file": "Notes/Python3/Function Parameters.md"
               }
             }
           },
@@ -170,25 +170,25 @@
   },
   "active": "acb270e06873b2de",
   "lastOpenFiles": [
-    "Python3/Randomization and Lists.md",
-    "Python3",
-    "Python3/If,Else, Elif & Logical Operators.md",
-    "Python3/Functions with Outputs.md",
-    "Python3/Function Parameters.md",
-    "Python3/Dictionaries & Nesting.md",
-    "Python3/Data Types.md",
+    "Notes/Python3/Randomization and Lists.md",
+    "Notes/Python3",
+    "Notes/Python3/If,Else, Elif & Logical Operators.md",
+    "Notes/Python3/Functions with Outputs.md",
+    "Notes/Python3/Function Parameters.md",
+    "Notes/Python3/Dictionaries & Nesting.md",
+    "Notes/Python3/Data Types.md",
     "Notes/Python/Python/Function Parameters.md",
     "Notes/Python/Python/Dictionaries & Nesting.md",
     "Notes/Python/Python/Data Types.md",
     "Notes/Network Analysis/Helpful Networking.md",
-    "Penetration Testing/Persistence",
-    "Penetration Testing/Post-Exploitation",
-    "Penetration Testing/Lateral Movement",
-    "Penetration Testing/Exploitation",
+    "Notes/Penetration Testing/Persistence",
+    "Notes/Penetration Testing/Post-Exploitation",
+    "Notes/Penetration Testing/Lateral Movement",
+    "Notes/Penetration Testing/Exploitation",
     "Penetration Testing/Untitled.md",
-    "Penetration Testing/Enumeration",
-    "Penetration Testing/Reconaissance",
-    "Penetration Testing",
+    "Notes/Penetration Testing/Enumeration",
+    "Notes/Penetration Testing/Reconaissance",
+    "Notes/Penetration Testing",
     "Images/Pasted image 20240909072150.png",
     "Images",
     "New folder",
