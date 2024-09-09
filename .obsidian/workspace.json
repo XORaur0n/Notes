@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Python3/Randomization and Lists.md",
+                "file": "Notes/Programming & Scripting/Python3/Randomization and Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Analyzing .evtx/Event Tracing for Windows.md",
+                "file": "Notes/Blue Team/Analyzing .evtx/Event Tracing for Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Analyzing .evtx/Event Tracing for Windows.md",
+                "file": "Notes/Blue Team/Analyzing .evtx/Event Tracing for Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Analyzing .evtx/Event Tracing for Windows.md",
+                "file": "Notes/Blue Team/Analyzing .evtx/Event Tracing for Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Analyzing .evtx/Event Tracing for Windows.md"
+                "file": "Notes/Blue Team/Analyzing .evtx/Event Tracing for Windows.md"
               }
             }
           },
@@ -170,42 +170,42 @@
   },
   "active": "acb270e06873b2de",
   "lastOpenFiles": [
-    "Notes/Penetration Testing/Privilege Escalation",
-    "Notes/SIEM",
-    "Notes/Analyzing .evtx/Helpful Windows Event IDs.md",
-    "Notes/Analyzing .evtx/Useful Event Tracing Providers.md",
-    "Notes/Analyzing .evtx/Windows Event Log Analysis.md",
-    "Notes/Network Analysis/Anomalous Telnet Connections.md",
-    "Notes/Network Analysis/Anomalous DNS Traffic.md",
-    "Notes/Network Analysis/SSL Renegotiation Attacks.md",
-    "Notes/Network Analysis/Anomalous HTTP Requests.md",
-    "Notes/Network Analysis/ICMP Tunneling.md",
-    "Notes/Network Analysis/Helpful Networking.md",
-    "Notes/Network Analysis/Web Fuzzing.md",
-    "Notes/Network Analysis/Fragmentation Attacks.md",
-    "Notes/Network Analysis/Deauthentication Attacks.md",
-    "Notes/Network Analysis/ARP Spoofing.md",
-    "Notes/Network Analysis/Rogue AP & Evil-Twin Attacks.md",
-    "Notes/Network Analysis/TCP RST Attacks & Connection Hijacking.md",
-    "Notes/Network Analysis/Three-Way Handshake Anomalies.md",
-    "Notes/Network Analysis/IP TTL Attacks.md",
-    "Notes/Network Analysis/IP Source & Destination Spoofing Attacks.md",
-    "Notes/Assembly/x86/Basic Instructions & Definitions.md",
-    "Notes/Analyzing .evtx/Event Tracing for Windows.md",
-    "Notes/Assembly/ARM/Untitled.md",
-    "Notes/Assembly/PowerPC/Untitled.md",
+    "Notes/Programming & Scripting",
+    "Notes/Helpful Commands",
+    "Notes/Red Team/Penetration Testing/Active Directory",
+    "Notes/Red Team",
+    "Notes/Blue Team",
+    "Notes/Regular Expressions (Regex)",
+    "Notes/Red Team/Penetration Testing/Privilege Escalation",
+    "Notes/Blue Team/SIEM",
+    "Notes/Blue Team/Analyzing .evtx/Helpful Windows Event IDs.md",
+    "Notes/Blue Team/Analyzing .evtx/Useful Event Tracing Providers.md",
+    "Notes/Blue Team/Analyzing .evtx/Windows Event Log Analysis.md",
+    "Notes/Blue Team/Network Analysis/Anomalous Telnet Connections.md",
+    "Notes/Blue Team/Network Analysis/Anomalous DNS Traffic.md",
+    "Notes/Blue Team/Network Analysis/SSL Renegotiation Attacks.md",
+    "Notes/Blue Team/Network Analysis/Anomalous HTTP Requests.md",
+    "Notes/Blue Team/Network Analysis/ICMP Tunneling.md",
+    "Notes/Blue Team/Network Analysis/Helpful Networking.md",
+    "Notes/Blue Team/Network Analysis/Web Fuzzing.md",
+    "Notes/Blue Team/Network Analysis/Fragmentation Attacks.md",
+    "Notes/Blue Team/Network Analysis/Deauthentication Attacks.md",
+    "Notes/Blue Team/Network Analysis/ARP Spoofing.md",
+    "Notes/Blue Team/Network Analysis/Rogue AP & Evil-Twin Attacks.md",
+    "Notes/Blue Team/Network Analysis/TCP RST Attacks & Connection Hijacking.md",
+    "Notes/Blue Team/Network Analysis/Three-Way Handshake Anomalies.md",
+    "Notes/Blue Team/Network Analysis/IP TTL Attacks.md",
+    "Notes/Blue Team/Network Analysis/IP Source & Destination Spoofing Attacks.md",
+    "Notes/Programming & Scripting/Assembly/x86/Basic Instructions & Definitions.md",
+    "Notes/Blue Team/Analyzing .evtx/Event Tracing for Windows.md",
+    "Notes/Programming & Scripting/Assembly/ARM/Untitled.md",
+    "Notes/Programming & Scripting/Assembly/PowerPC/Untitled.md",
     "Notes/Assembly/x86/Untitled.md",
-    "Notes/Assembly/ARM",
+    "Notes/Programming & Scripting/Assembly/ARM",
     "Assembly/Untitled.md",
-    "Notes/Assembly/PowerPC",
-    "Notes/Assembly/x86",
-    "Notes/Assembly",
-    "Notes/Python3/If,Else, Elif & Logical Operators.md",
-    "Notes/Python3",
-    "Notes/Penetration Testing/Persistence",
-    "Notes/Penetration Testing/Post-Exploitation",
-    "Notes/Penetration Testing/Lateral Movement",
-    "Notes/Penetration Testing/Exploitation",
+    "Notes/Programming & Scripting/Assembly/PowerPC",
+    "Notes/Programming & Scripting/Assembly/x86",
+    "Notes/Programming & Scripting/Python3/If,Else, Elif & Logical Operators.md",
     "Images/Pasted image 20240909072150.png",
     "Pasted image 20240909072150.png",
     "Notes/Network Analysis/Images/PDU.webp",
