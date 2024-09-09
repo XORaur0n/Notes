@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Network Analysis/Helpful Networking.md",
+                "file": "Python/Randomization and Lists.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae52691a340a5205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Function Parameters.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Network Analysis/Helpful Networking.md",
+                "file": "Python/Function Parameters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Network Analysis/Helpful Networking.md",
+                "file": "Python/Function Parameters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Network Analysis/Helpful Networking.md"
+                "file": "Python/Function Parameters.md"
               }
             }
           },
@@ -157,11 +170,22 @@
   },
   "active": "acb270e06873b2de",
   "lastOpenFiles": [
-    "Penetration Testing/Untitled",
+    "Python/Randomization and Lists.md",
+    "Python",
+    "Python/If,Else, Elif & Logical Operators.md",
+    "Python/Functions with Outputs.md",
+    "Python/Function Parameters.md",
+    "Python/Dictionaries & Nesting.md",
+    "Python/Data Types.md",
+    "Notes/Python/Python/Function Parameters.md",
+    "Notes/Python/Python/Dictionaries & Nesting.md",
+    "Notes/Python/Python/Data Types.md",
+    "Notes/Network Analysis/Helpful Networking.md",
+    "Penetration Testing/Persistence",
+    "Penetration Testing/Post-Exploitation",
     "Penetration Testing/Lateral Movement",
     "Penetration Testing/Exploitation",
     "Penetration Testing/Untitled.md",
-    "Notes/Network Analysis/Helpful Networking.md",
     "Penetration Testing/Enumeration",
     "Penetration Testing/Reconaissance",
     "Penetration Testing",
@@ -184,18 +208,6 @@
     "Notes/Helpful Linux Commands/Untitled.md",
     "Notes/Helpful Windows Commands/Untitled.md",
     "Notes/Imbedded Systems Programming/Untitled.md",
-    "Notes/Malware Analysis/Untitled.md",
-    "Network Analysis/Helpful Networking.md",
-    "Notes/Network Analysis/Images",
-    "Notes/Network Analysis",
-    "Notes/Threat Hunting/Untitled.md",
-    "Notes/Threat Hunting",
-    "Notes/Python/Python/Randomization and Lists.md",
-    "Notes/Python/Python/If,Else, Elif & Logical Operators.md",
-    "Notes/Python/Python/Functions with Outputs.md",
-    "Notes/Python/Python/Function Parameters.md",
-    "Notes/Python/Python/Dictionaries & Nesting.md",
-    "Notes/Python/Python/Data Types.md",
     "Pasted image 20240909052702.png",
     "Network Analysis/Images/PDU.webp",
     "Network Analysis/Images/net_models_pdu2.webp",
