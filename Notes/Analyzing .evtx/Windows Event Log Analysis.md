@@ -7,6 +7,9 @@
 	System
 	Forwarded Events
 
+
+-----------------------------------------
+
 **Log fields:** 
 
 	Source: The software that logged the event.
@@ -30,9 +33,15 @@
     
     XML Data: All the above information is also included in an XML format along with additional event data.
 
+
+-----------------------------------------
+
 **Log manipulation with XML:**
 
 	MS documentation: https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/advanced-xml-filtering-in-the-windows-event-viewer/ba-p/399761
+
+
+-----------------------------------------
 
 
 **Sysmon:** 

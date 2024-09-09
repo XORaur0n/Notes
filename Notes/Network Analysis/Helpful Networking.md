@@ -86,7 +86,7 @@ Common Flags:
 | w file.pcap	 | Write into a file<br>  
 
 
------------------------------------------------
+-----------------------------------------
 
 
 **Helpful Filters:** 
@@ -104,6 +104,7 @@ Common Flags:
 | or                    | <br>or allows for a match on either of two conditions. It does not have to meet both. It can be tricky.<br>   |
 | not                   | <br>not is a modifier saying anything but x. For example, not UDP.<br>                                        |
 
+-----------------------------------------
 
 **TShark**:  
 
@@ -123,6 +124,8 @@ Flags:
 | h             | See the help menu                                                                                                 |
 
 
+-----------------------------------------
+
 **Wireshark:**
 
 Helpful Capture Filters: 
@@ -138,6 +141,8 @@ Helpful Capture Filters:
 | ip / ether / tcp                | These filters will only grab traffic from specified protocol headers.                                                |
 | broadcast / multicast / unicast | Grabs a specific type of traffic. one to one, one to many, or one to all.                                            |
 
+
+-----------------------------------------
 
 Helpful Display Filters: 
 

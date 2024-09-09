@@ -24,6 +24,9 @@
         
     This event indicates a change in service startup type, which could be from manual to automatic or vice versa. If a crucial service's startup type is changed, it could be a sign of system tampering.
 
+-----------------------------------------
+
+
 **Windows Security Logs**
        
 	**Event ID 1102** (The audit log was cleared): 

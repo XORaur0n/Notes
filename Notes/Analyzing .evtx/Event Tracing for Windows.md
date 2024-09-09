@@ -24,6 +24,9 @@ A built in mechanism for tracing events for user & kernel events. It can capture
 		.ETL Files: Allow for writing events to disk for storage, offline analysis, archiving, and forensics. 
 
 
+-----------------------------------------
+
+
 **Logman:** Pre-installed controller for creating, initating, halting, and investigating traces. Using the -ets flag allows for direct interaction with trace sessions. See below 
 	
 		logman.exe query -ets 
@@ -44,6 +47,7 @@ A built in mechanism for tracing events for user & kernel events. It can capture
 		Logman can be used with specific providers in mind, the following will output keywords we can filter, available event levels, and which processes are currently utilizing the provider: 
 			logman.exe query providers Microsoft-Windows-Winlogon
 
+-----------------------------------------
 
 **SilkETW:** A C# Wrapper for ETW used to abstract away some of the complexities of ETW. The following will collect information about providers and will output a .json file.
 		
@@ -68,6 +72,9 @@ A built in mechanism for tracing events for user & kernel events. It can capture
 			Get-WinEvent -Path '[file path]' -MaxEvents [how many events you want] | Select-Object TimeCreated, ID, ProviderName, LevelDisplayName, Message | Format-Table -AutoSize
 
 	For more Powershell examples, see https://adamtheautomator.com/get-winevent/
+
+
+-----------------------------------------
 
 		
 		

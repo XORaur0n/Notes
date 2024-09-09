@@ -30,4 +30,7 @@ Mostly used to harvest wireless & domain credentials, commonly encompass hostile
 		(wlan.bssid == [Suspicious MAC Address])
 
 
+-----------------------------------------
+
+
 Make sure to check network devices & scrutinize WiFi networks in proximity to the victim network. If a network has a strong signal & lacks encryption - it is probably a rogue AP established to navigate around network controls. 
