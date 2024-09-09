@@ -1,0 +1,10 @@
+
+
+|   |                                                                                                                                                                                                                                                                |
+|---|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | Imagine our first computer, or Host A, needs to send data to our second computer, Host B. To achieve successful transmission, Host A must ascertain the physical address of Host B.                                                                            |
+| 2 | Host A begins by consulting its list of known addresses, the ARP cache, to check if it already possesses this physical address.                                                                                                                                |
+| 3 | In the event the address corresponding to the desired IP isn't in the ARP cache, Host A broadcasts an ARP request to all machines in the subnet, inquiring, "Who holds the IP x.x.x.x?"                                                                        |
+| 4 | Host B responds to this message with an ARP reply, "Hello, Host A, my IP is x.x.x.x and is mapped to MAC address aa:aa:aa:aa:aa:aa."                                                                                                                           |
+| 5 | On receiving this response, Host A updates its ARP cache with the new IP-to-MAC mapping.                                                                                                                                                                       |
+| 6 | Occasionally, a host might install a new interface, or the IP address previously allocated to the host might expire, necessitating an update and remapping of the ARP cache. Such instances could introduce complications when we analyze our network traffic. |
