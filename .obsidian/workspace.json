@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assembly/Untitled.md",
+                "file": "Notes/Assembly/ARM/Untitled.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assembly/Untitled.md",
+                "file": "Notes/Assembly/ARM/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assembly/Untitled.md",
+                "file": "Notes/Assembly/ARM/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assembly/Untitled.md"
+                "file": "Notes/Assembly/ARM/Untitled.md"
               }
             }
           },
@@ -168,13 +168,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae52691a340a5205",
+  "active": "acb270e06873b2de",
   "lastOpenFiles": [
-    "Notes/Basic Instructions & Definitions 1.md",
+    "Notes/Assembly/PowerPC/Untitled.md",
+    "Notes/Assembly/ARM/Untitled.md",
+    "Notes/Assembly/x86/Untitled.md",
+    "Notes/Assembly/x86/Basic Instructions & Definitions.md",
+    "Notes/Assembly/ARM",
     "Assembly/Untitled.md",
-    "Assembly/PowerPC",
-    "Assembly/x86",
-    "Assembly",
+    "Notes/Assembly/PowerPC",
+    "Notes/Assembly/x86",
+    "Notes/Assembly",
     "Notes/Network Analysis/Helpful Networking.md",
     "Notes/Analyzing .evtx/Helpful Windows Event IDs.md",
     "Notes/Analyzing .evtx/Event Tracing for Windows.md",
@@ -196,7 +200,6 @@
     "Notes/Penetration Testing/Exploitation",
     "Penetration Testing/Untitled.md",
     "Notes/Penetration Testing/Enumeration",
-    "Notes/Penetration Testing/Reconaissance",
     "Images/Pasted image 20240909072150.png",
     "Pasted image 20240909072150.png",
     "Notes/Network Analysis/Images/PDU.webp",
@@ -206,8 +209,6 @@
     "Notes/Penetration Testing/Reconnaissance/Untitled.md",
     "Notes/Penetration Testing/Post-Exploitation/Untitled.md",
     "Notes/Penetration Testing/Persistence/Untitled.md",
-    "Notes/Penetration Testing/Exploitation/Untitled.md",
-    "Notes/Penetration Testing/Enumeration/Untitled.md",
     "Pasted image 20240909052702.png",
     "Network Analysis/Images/PDU.webp",
     "Network Analysis/Images/net_models_pdu2.webp",
