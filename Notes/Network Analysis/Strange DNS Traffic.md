@@ -53,3 +53,13 @@ Used when the client knows the IP address but wants to find the FQDN.
 | TXT (Text)               | This is used to specify text associated with the domain                                                 |
 | SOA (Start of Authority) | This contains administrative information about the zone                                                 |
 
+-----------------------------------------
+
+
+**Detecting Attacks:** 
+
+	DNS Enumeration: 
+	
+		Filter by DNS, check records, zone transfers, look for conclusions that end with ANY. 
+
+	DNS Tunneling: 

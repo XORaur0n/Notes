@@ -47,7 +47,7 @@ HTTP Methods:
 
 -----------------------------------------
 
-**FTP Methods:** 
+**FTP Commands:** 
 
 	USER: Specifies the user to log in as.
 	PASS: Sends the password for the user attempting to log in.
