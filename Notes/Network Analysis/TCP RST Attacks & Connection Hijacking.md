@@ -26,7 +26,7 @@ The attacker will block ACKs from reaching the host in order to continue the hij
 
 TCP RST Attacks: 
 
-	Check MAC addresses to notice any differences/anomalous MACs. 
+	Check MAC addresses to notice any differences/anomalous MACs
 
 	Look retransmissions in case the MAC is spoofed. Employ methods that you would for ARP Spoofing
 
