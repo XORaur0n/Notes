@@ -18,7 +18,7 @@
 
 	Random Source Attack DDOS: 
 
-		An attacker will send lots of traffic from various IPs to the same port. 
+		An attacker will send lots of traffic from various IPs to the same port to a victim. 
 
 
 	LAND Attacks (DOS): 
@@ -33,5 +33,22 @@
 	Initialization Vector Generation: 
 
 		While usually only legavy wireless networks are vulnerable, an attacker will capture, decrypt, craft, and re-inject a packet in order to build a decryption table for a stastical attack. 
+
+
+-----------------------------------------
+
+
+**Finding Attacks:** 
+
+
+	Decoy Scanning: 
+
+		Look for:
+
+			Initial Fragmentation from a fake address
+
+			TCP traffic from a legitimate source address
+
+			Look for responses from multiple closed ports, as the RST flags will point towards the attacker address. 
 
 
