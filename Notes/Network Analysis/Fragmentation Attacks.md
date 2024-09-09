@@ -37,5 +37,14 @@ Attackers abuse fragmentation for the following reasons:
 
 	Firewall/IPS/IDS Resource Exhaustion: 
 
-		If an attacker fragmented packets of a very small MTU (10, 15,20, etc.) 
+		If an attacker fragmented packets of a very small MTU (10, 15,20, etc.), they may not be reassembled due to rsource limnitations. 
+
+
+	Denial of Service: Old hosts are vulnerable to packets exceeding 65,535 bytes and would be DOS'd if an attacker sent them
+
+
+-----------------------------------------
+
+
+**Detecting Attacks:** 
 
