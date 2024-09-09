@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Network Analysis/Anomalous Telnet Connections.md",
+                "file": "Notes/Analyzing .evtx/Event Tracing for Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Network Analysis/Anomalous Telnet Connections.md",
+                "file": "Notes/Analyzing .evtx/Event Tracing for Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Network Analysis/Anomalous Telnet Connections.md",
+                "file": "Notes/Analyzing .evtx/Event Tracing for Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Network Analysis/Anomalous Telnet Connections.md"
+                "file": "Notes/Analyzing .evtx/Event Tracing for Windows.md"
               }
             }
           },
@@ -170,8 +170,11 @@
   },
   "active": "ae52691a340a5205",
   "lastOpenFiles": [
-    "Notes/Network Analysis/Anomalous DNS Traffic.md",
+    "Notes/Analyzing .evtx/Helpful Windows Event IDs.md",
+    "Notes/Analyzing .evtx/Useful Event Tracing Providers.md",
+    "Notes/Analyzing .evtx/Windows Event Log Analysis.md",
     "Notes/Network Analysis/Anomalous Telnet Connections.md",
+    "Notes/Network Analysis/Anomalous DNS Traffic.md",
     "Notes/Network Analysis/SSL Renegotiation Attacks.md",
     "Notes/Network Analysis/Anomalous HTTP Requests.md",
     "Notes/Network Analysis/ICMP Tunneling.md",
@@ -186,9 +189,6 @@
     "Notes/Network Analysis/IP TTL Attacks.md",
     "Notes/Network Analysis/IP Source & Destination Spoofing Attacks.md",
     "Notes/Assembly/x86/Basic Instructions & Definitions.md",
-    "Notes/Analyzing .evtx/Windows Event Log Analysis.md",
-    "Notes/Analyzing .evtx/Useful Event Tracing Providers.md",
-    "Notes/Analyzing .evtx/Helpful Windows Event IDs.md",
     "Notes/Analyzing .evtx/Event Tracing for Windows.md",
     "Notes/Assembly/ARM/Untitled.md",
     "Notes/Assembly/PowerPC/Untitled.md",
