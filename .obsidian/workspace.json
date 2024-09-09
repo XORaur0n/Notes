@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "97fe8081c86626e0",
+        "id": "de21bd5eebf162cf",
         "type": "tabs",
         "children": [
           {
-            "id": "76c932e466185964",
+            "id": "288c9f43596c2253",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,7 +147,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e8c0dbe10528811",
+  "active": "288c9f43596c2253",
   "lastOpenFiles": [
     "Network Analysis/Helpful Networking.md",
     "Notes/Network Analysis/Images/PDU.webp",
