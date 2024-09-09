@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Randomization and Lists.md",
+                "file": "Python3/Randomization and Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Function Parameters.md",
+                "file": "Python3/Function Parameters.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Function Parameters.md",
+                "file": "Python3/Function Parameters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Function Parameters.md",
+                "file": "Python3/Function Parameters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Function Parameters.md"
+                "file": "Python3/Function Parameters.md"
               }
             }
           },
@@ -170,13 +170,13 @@
   },
   "active": "acb270e06873b2de",
   "lastOpenFiles": [
-    "Python/Randomization and Lists.md",
-    "Python",
-    "Python/If,Else, Elif & Logical Operators.md",
-    "Python/Functions with Outputs.md",
-    "Python/Function Parameters.md",
-    "Python/Dictionaries & Nesting.md",
-    "Python/Data Types.md",
+    "Python3/Randomization and Lists.md",
+    "Python3",
+    "Python3/If,Else, Elif & Logical Operators.md",
+    "Python3/Functions with Outputs.md",
+    "Python3/Function Parameters.md",
+    "Python3/Dictionaries & Nesting.md",
+    "Python3/Data Types.md",
     "Notes/Python/Python/Function Parameters.md",
     "Notes/Python/Python/Dictionaries & Nesting.md",
     "Notes/Python/Python/Data Types.md",
