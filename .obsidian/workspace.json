@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Python3/If,Else, Elif & Logical Operators.md",
+                "file": "Notes/Analyzing .evtx/Event Tracing for Windows.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Python3/If,Else, Elif & Logical Operators.md",
+                "file": "Notes/Analyzing .evtx/Event Tracing for Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Python3/If,Else, Elif & Logical Operators.md",
+                "file": "Notes/Analyzing .evtx/Event Tracing for Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Python3/If,Else, Elif & Logical Operators.md"
+                "file": "Notes/Analyzing .evtx/Event Tracing for Windows.md"
               }
             }
           },
@@ -170,12 +170,15 @@
   },
   "active": "ae52691a340a5205",
   "lastOpenFiles": [
+    "Notes/Analyzing .evtx/Helpful Windows Event IDs.md",
+    "Notes/Analyzing .evtx/Useful Event Tracing Providers.md",
+    "Notes/Analyzing .evtx/Windows Event Log Analysis.md",
+    "Notes/Python3/If,Else, Elif & Logical Operators.md",
     "Notes/Python3/Function Parameters.md",
     "Notes/Python3/Dictionaries & Nesting.md",
     "Notes/Python3/Data Types.md",
     "Notes/Python3/Randomization and Lists.md",
     "Notes/Python3",
-    "Notes/Python3/If,Else, Elif & Logical Operators.md",
     "Notes/Python3/Functions with Outputs.md",
     "Notes/Python/Python/Function Parameters.md",
     "Notes/Python/Python/Dictionaries & Nesting.md",
@@ -206,8 +209,6 @@
     "Notes/Signatures/Untitled.md",
     "Notes/PowerShell Scripting/Untitled.md",
     "Notes/Helpful Linux Commands/Untitled.md",
-    "Notes/Helpful Windows Commands/Untitled.md",
-    "Notes/Imbedded Systems Programming/Untitled.md",
     "Pasted image 20240909052702.png",
     "Network Analysis/Images/PDU.webp",
     "Network Analysis/Images/net_models_pdu2.webp",
