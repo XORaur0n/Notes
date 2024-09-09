@@ -68,3 +68,11 @@ HTTPS, unlike HTTP is much more secure - meaning it incorporates encryption in t
 
 
 **Detecting Attacks:** 
+
+	To look for SSL renegotiation attacks use this Wireshark filter: 
+
+	ssl.record.content_type == 22
+
+	Search for multiple Hello messages from one client within a short period. 
+
+	Look for messages that are out of order, (i.e. a Hello message after the handshake is done.) 
