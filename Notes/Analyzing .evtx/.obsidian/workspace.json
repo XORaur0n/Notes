@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "d51202cae51de79e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b58f0f40e298fee0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f289574c8eb2662d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Helpful Windows Event IDs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c528fbf0d94c882",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Helpful Windows Event IDs.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b49e03cabe88fed",
+    "type": "split",
+    "children": [
+      {
+        "id": "367bd07f3799a96b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "903778fe247e55a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "295e308783771a6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d89ee2266d8f6db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a3c6b681ab2532b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d130ee6020362d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1eeb2340f67568d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Helpful Windows Event IDs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "358b6ba818454c1d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Helpful Windows Event IDs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "311b1c327d74586a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "537f17e144736e86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Helpful Windows Event IDs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3c528fbf0d94c882",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Helpful Windows Event IDs.md",
+    "Untitled",
+    "Analyzing-Windows-Event-Logs",
+    "2024-08-23.md"
+  ]
+}

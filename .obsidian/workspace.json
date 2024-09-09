@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "a7347b8e606df940",
+    "type": "split",
+    "children": [
+      {
+        "id": "97fe8081c86626e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76c932e466185964",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21d7d1ea7403f017",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ce22681ed839d56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acb270e06873b2de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "790b294d52b13175",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "251e27a4de330dbf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "461724bee1dae560",
+    "type": "split",
+    "children": [
+      {
+        "id": "480d0afb84921a5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed4463ac639a2905",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12a99f0e7b99b1df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b18164318f955e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "90628b75afeb527c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e8c0dbe10528811",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2e8c0dbe10528811",
+  "lastOpenFiles": [
+    "Network Analysis/Helpful Networking.md",
+    "Notes/Network Analysis/Images/PDU.webp",
+    "Notes/Network Analysis/Images",
+    "Notes/Network Analysis/Helpful Networking.md",
+    "Notes/Network Analysis",
+    "Notes/Threat Hunting/Untitled.md",
+    "Notes/Threat Hunting",
+    "Notes/Signatures",
+    "Notes/Python/Python/Randomization and Lists.md",
+    "Notes/Python/Python/If,Else, Elif & Logical Operators.md",
+    "Notes/Python/Python/Functions with Outputs.md",
+    "Notes/Python/Python/Function Parameters.md",
+    "Notes/Python/Python/Dictionaries & Nesting.md",
+    "Notes/Python/Python/Data Types.md",
+    "Notes/Python/Python",
+    "Notes/Python",
+    "Notes/PowerShell Scripting",
+    "Notes/Pentest Notes/Post-Exploitation",
+    "Notes/Pentest Notes/Reconnaissance",
+    "Notes/Pentest Notes/Persistence",
+    "Notes/Assembly/x86/Basic Instructions & Definitions.md",
+    "Notes/Analyzing .evtx/Windows Event Log Analysis.md",
+    "Notes/Analyzing .evtx/Useful Event Tracing Providers.md",
+    "Notes/Analyzing .evtx/Helpful Windows Event IDs.md",
+    "Notes/Analyzing .evtx/Event Tracing for Windows.md",
+    "Pasted image 20240909052702.png",
+    "Network Analysis/Images/PDU.webp",
+    "Network Analysis/Images/net_models_pdu2.webp",
+    "Network Analysis/Images/net_models4.webp",
+    "Analyzing .evtx/Windows Event Log Analysis.md",
+    "Analyzing .evtx/Event Tracing for Windows.md",
+    "Analyzing .evtx/Useful Event Tracing Providers.md",
+    "Analyzing .evtx/Helpful Windows Event IDs.md",
+    "Assembly/x86/Basic Instructions & Definitions.md",
+    "Pentest Notes/Persistence.md",
+    "Pentest Notes/Reconnaissance.md",
+    "Pentest Notes/Exploitation.md",
+    "Pentest Notes/Enumeration.md",
+    "Pentest Notes/Covering Tracks.md",
+    "Threat Hunting/Untitled.md"
+  ]
+}
