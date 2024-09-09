@@ -42,7 +42,7 @@ HTTPS Handshake:
 
 FTP Methods: 
 
-	USER:  Specifies the user to log in as.
+	USER:   Specifies the user to log in as.
 	PASS:	Sends the password for the user attempting to log in.
 	PORT:	When in active mode, this will change the data port used.
 	PASV:	Switches the connection to the server from active mode to passive.
