@@ -31,3 +31,6 @@
 
 
 	Excessive FINs: Look for FIN scans. If the port is open the host will not respond. If the port is closed the host will respond with a rest. 
+
+
+	Excessive flags
