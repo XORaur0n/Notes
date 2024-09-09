@@ -11,8 +11,12 @@
             "id": "288c9f43596c2253",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Bash Scripting/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Bash Scripting/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Bash Scripting/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Bash Scripting/Untitled.md"
+              }
             }
           },
           {
@@ -147,8 +155,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "288c9f43596c2253",
+  "active": "acb270e06873b2de",
   "lastOpenFiles": [
+    "Notes/C/Untitled.md",
+    "Notes/Bash Scripting/Untitled.md",
+    "Notes/Forensics/Untitled.md",
+    "Notes/Pentest Notes/Reconnaissance/Untitled.md",
+    "Notes/Pentest Notes/Post-Exploitation/Untitled.md",
+    "Notes/Pentest Notes/Persistence/Untitled.md",
+    "Notes/Pentest Notes/Exploitation/Untitled.md",
+    "Notes/Pentest Notes/Enumeration/Untitled.md",
+    "Notes/Pentest Notes/Covering Tracks/Untitled.md",
+    "Notes/Signatures/Untitled.md",
+    "Notes/PowerShell Scripting/Untitled.md",
+    "Notes/Helpful Linux Commands/Untitled.md",
+    "Notes/Helpful Windows Commands/Untitled.md",
+    "Notes/Imbedded Systems Programming/Untitled.md",
+    "Notes/Malware Analysis/Untitled.md",
     "Network Analysis/Helpful Networking.md",
     "Notes/Network Analysis/Images/PDU.webp",
     "Notes/Network Analysis/Images",
@@ -171,23 +194,9 @@
     "Notes/Pentest Notes/Persistence",
     "Notes/Assembly/x86/Basic Instructions & Definitions.md",
     "Notes/Analyzing .evtx/Windows Event Log Analysis.md",
-    "Notes/Analyzing .evtx/Useful Event Tracing Providers.md",
-    "Notes/Analyzing .evtx/Helpful Windows Event IDs.md",
-    "Notes/Analyzing .evtx/Event Tracing for Windows.md",
     "Pasted image 20240909052702.png",
     "Network Analysis/Images/PDU.webp",
     "Network Analysis/Images/net_models_pdu2.webp",
-    "Network Analysis/Images/net_models4.webp",
-    "Analyzing .evtx/Windows Event Log Analysis.md",
-    "Analyzing .evtx/Event Tracing for Windows.md",
-    "Analyzing .evtx/Useful Event Tracing Providers.md",
-    "Analyzing .evtx/Helpful Windows Event IDs.md",
-    "Assembly/x86/Basic Instructions & Definitions.md",
-    "Pentest Notes/Persistence.md",
-    "Pentest Notes/Reconnaissance.md",
-    "Pentest Notes/Exploitation.md",
-    "Pentest Notes/Enumeration.md",
-    "Pentest Notes/Covering Tracks.md",
-    "Threat Hunting/Untitled.md"
+    "Network Analysis/Images/net_models4.webp"
   ]
 }
