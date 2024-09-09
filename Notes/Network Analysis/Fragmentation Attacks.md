@@ -22,4 +22,5 @@ These fields contain the origination (source) and destination IP addresses for t
 Fragmentation Abuse: 
 
 
+Fragmentation exists to allow legitimate networks 
 
