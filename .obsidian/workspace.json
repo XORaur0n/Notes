@@ -168,8 +168,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae52691a340a5205",
+  "active": "acb270e06873b2de",
   "lastOpenFiles": [
+    "Notes/SIEM",
     "Notes/Analyzing .evtx/Helpful Windows Event IDs.md",
     "Notes/Analyzing .evtx/Useful Event Tracing Providers.md",
     "Notes/Analyzing .evtx/Windows Event Log Analysis.md",
@@ -199,7 +200,6 @@
     "Notes/Assembly/x86",
     "Notes/Assembly",
     "Notes/Python3/If,Else, Elif & Logical Operators.md",
-    "Notes/Python3/Function Parameters.md",
     "Notes/Python3",
     "Notes/Penetration Testing/Persistence",
     "Notes/Penetration Testing/Post-Exploitation",
