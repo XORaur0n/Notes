@@ -1,5 +1,5 @@
 
-! [Protocol Data Unit (PDU)](PDU.webp)
+![[Pasted image 20240909072150.png]]
 
 
 IPv6 Addressing Types: 

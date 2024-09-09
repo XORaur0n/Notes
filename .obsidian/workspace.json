@@ -11,10 +11,11 @@
             "id": "288c9f43596c2253",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Notes/Pentest Notes",
-                "staged": false
+                "file": "Notes/Network Analysis/Helpful Networking.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Network Analysis/Helpful Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Network Analysis/Helpful Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Network Analysis/Helpful Networking.md"
+              }
             }
           },
           {
@@ -152,6 +157,19 @@
   },
   "active": "acb270e06873b2de",
   "lastOpenFiles": [
+    "Penetration Testing/Untitled",
+    "Penetration Testing/Lateral Movement",
+    "Penetration Testing/Exploitation",
+    "Penetration Testing/Untitled.md",
+    "Notes/Network Analysis/Helpful Networking.md",
+    "Penetration Testing/Enumeration",
+    "Penetration Testing/Reconaissance",
+    "Penetration Testing",
+    "Images/Pasted image 20240909072150.png",
+    "Images",
+    "New folder",
+    "Pasted image 20240909072150.png",
+    "Notes/Network Analysis/Images/PDU.webp",
     "Notes/Bash Scripting/Untitled.md",
     "Notes/C/Untitled.md",
     "Notes/Forensics/Untitled.md",
@@ -168,27 +186,16 @@
     "Notes/Imbedded Systems Programming/Untitled.md",
     "Notes/Malware Analysis/Untitled.md",
     "Network Analysis/Helpful Networking.md",
-    "Notes/Network Analysis/Images/PDU.webp",
     "Notes/Network Analysis/Images",
-    "Notes/Network Analysis/Helpful Networking.md",
     "Notes/Network Analysis",
     "Notes/Threat Hunting/Untitled.md",
     "Notes/Threat Hunting",
-    "Notes/Signatures",
     "Notes/Python/Python/Randomization and Lists.md",
     "Notes/Python/Python/If,Else, Elif & Logical Operators.md",
     "Notes/Python/Python/Functions with Outputs.md",
     "Notes/Python/Python/Function Parameters.md",
     "Notes/Python/Python/Dictionaries & Nesting.md",
     "Notes/Python/Python/Data Types.md",
-    "Notes/Python/Python",
-    "Notes/Python",
-    "Notes/PowerShell Scripting",
-    "Notes/Penetration Testing/Post-Exploitation",
-    "Notes/Penetration Testing/Reconnaissance",
-    "Notes/Penetration Testing/Persistence",
-    "Notes/Assembly/x86/Basic Instructions & Definitions.md",
-    "Notes/Analyzing .evtx/Windows Event Log Analysis.md",
     "Pasted image 20240909052702.png",
     "Network Analysis/Images/PDU.webp",
     "Network Analysis/Images/net_models_pdu2.webp",
