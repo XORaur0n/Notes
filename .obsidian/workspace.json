@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/CPU Architecture.md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Instruction Set Architectures (ISAs).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/CPU Architecture.md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Instruction Set Architectures (ISAs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/CPU Architecture.md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Instruction Set Architectures (ISAs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/CPU Architecture.md"
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Instruction Set Architectures (ISAs).md"
               }
             }
           },
@@ -168,12 +168,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acb270e06873b2de",
+  "active": "ae52691a340a5205",
   "lastOpenFiles": [
-    "Notes/Programming & Scripting/Assembly/x86_32",
-    "Notes/Programming & Scripting/Assembly/x86_64/Computer Architecture.md",
-    "Notes/Blue Team/Network Analysis/Anomalous DNS Traffic.md",
     "Notes/Programming & Scripting/Assembly/x86_64/CPU Architecture.md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Instruction Set Architectures (ISAs).md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Untitled",
+    "Notes/Programming & Scripting/Assembly/x86_64/Computer Architecture.md",
+    "Notes/Programming & Scripting/Assembly/x86_32",
+    "Notes/Blue Team/Network Analysis/Anomalous DNS Traffic.md",
     "Notes/Programming & Scripting/Assembly/Untitled.md",
     "Notes/Blue Team/Signatures/Suricata (Network).md",
     "Notes/Blue Team/Signatures/KQL (File, Network, and Host).md",
@@ -199,8 +201,6 @@
     "Notes/Red Team/AD Penetration Testing",
     "Notes/Red Team",
     "Notes/Blue Team",
-    "Notes/Helpful Commands/Regular Expressions (Regex)",
-    "Notes/Red Team/Network Penetration Testing/Privilege Escalation",
     "Notes/Blue Team/Analyzing .evtx/Helpful Windows Event IDs.md",
     "Notes/Blue Team/Analyzing .evtx/Useful Event Tracing Providers.md",
     "Notes/Blue Team/Analyzing .evtx/Windows Event Log Analysis.md",
