@@ -22,7 +22,18 @@ Consists of Cache and RAM
 
 	Cache: 
 
-		Exists to access upcoming instructions quicker than retireving them 
+		Exists to access upcoming instructions quicker than retireving them from RAM. It is much faster than RAM 
+
+
+Cache Levels: 
+
+
+| Level | Description                                                                                                    |
+|-------|----------------------------------------------------------------------------------------------------------------|
+| 1     | Usually in kilobytes, the fastest memory available, located in each CPU core. (Only registers are faster.)<br> |
+| 2     | Usually in megabytes, extremely fast (but slower than L1), shared between all CPU cores.<br>                   |
+| 3     | Usually in megabytes (larger than L2), faster than RAM but slower than L1/L2. (Not all CPUs use L3.)<br>       |
+
 
 
 
