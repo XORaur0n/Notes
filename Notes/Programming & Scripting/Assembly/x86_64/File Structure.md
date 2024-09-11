@@ -15,5 +15,9 @@ Operands:
 
 -----------------------------------------
 
-Directives: 
+Variables: 
+
+Defined by using db (define bytes), dw (define words), or dd (define digits)
+
+Comment them out so you know what they do
 
