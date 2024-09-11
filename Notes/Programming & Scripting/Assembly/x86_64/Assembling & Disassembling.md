@@ -39,6 +39,10 @@ The below will do the same, but only show the assembly.
 
 	objdump -M intel --no-show-raw-insn --no-addresses -d [filename]
 
-Sometimes 
+Sometimes you may other fields from the disassembled file, as the -d flag only gives us .text
+
+The below will will dump strings from the .data section of the assembly
+
+	objdump -sj .data [filename]
 
 
