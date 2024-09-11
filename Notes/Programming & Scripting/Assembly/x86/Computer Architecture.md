@@ -25,7 +25,7 @@ Consists of Cache and RAM
 		Exists to access upcoming instructions quicker than retireving them from RAM. It is much faster than RAM 
 
 
-	Cache Levels: 
+Cache Levels: 
 
 
 | Level | Description                                                                                                    |
@@ -40,7 +40,7 @@ Consists of Cache and RAM
 		Much larger than cache and also much slower. When a program is run, all data & instructions are moved from the storage unit into RAM to be accessed when needed up the CPU. There are 4 segments of RAM. 
 
 
-	RAM Segments: 
+RAM Segments: 
 
 
 | Segment | Description                                                                                                                                                                                          |

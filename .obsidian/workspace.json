@@ -171,6 +171,7 @@
   "active": "ae52691a340a5205",
   "lastOpenFiles": [
     "Notes/Programming & Scripting/Assembly/x86/Computer Architecture.md",
+    "Notes/Blue Team/Network Analysis/Anomalous DNS Traffic.md",
     "Notes/Programming & Scripting/Assembly/x86/CPU Architecture.md",
     "Notes/Programming & Scripting/Assembly/Untitled.md",
     "Notes/Blue Team/Signatures/Suricata (Network).md",
@@ -203,7 +204,6 @@
     "Notes/Blue Team/Analyzing .evtx/Useful Event Tracing Providers.md",
     "Notes/Blue Team/Analyzing .evtx/Windows Event Log Analysis.md",
     "Notes/Blue Team/Network Analysis/Anomalous Telnet Connections.md",
-    "Notes/Blue Team/Network Analysis/Anomalous DNS Traffic.md",
     "Notes/Blue Team/Network Analysis/SSL Renegotiation Attacks.md",
     "Notes/Blue Team/Network Analysis/Anomalous HTTP Requests.md",
     "Images/Pasted image 20240909072150.png",
