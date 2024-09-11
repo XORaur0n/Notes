@@ -85,10 +85,25 @@ Each segment has specific RWX permissions to determine whether we can read, writ
 
 -----------------------------------------
 
-**Endianness in Addressing:** Endianness is the order in which bytes are stored or retrieved from memory. 
+**Endianness in Addressing:** 
+
+Endianness is the order in which bytes are stored or retrieved from memory. 
 
 Little-Endian processors will store the value from right to left
 
 Big-Endian processors will store the value left to right. 
+
+-----------------------------------------
+
+**Data Types:** 
+
+| Component        | Length           | Example            |
+|------------------|-------------------|--------------------|
+| byte             | 8 bits            | 0xab               |
+| word             | 16 bits - 2 bytes | 0xabcd             |
+| double word (dword) | 32 bits - 4 bytes | 0xabcdef12        |
+| quad word (qword) | 64 bits - 8 bytes | 0xabcdef1234567890 |
+
+	We cannot use a variable 
 
 
