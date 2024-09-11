@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Team/Signatures/Suricata (Network).md",
+                "file": "Notes/Programming & Scripting/Assembly/x86/Computer Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Blue Team/Signatures/Suricata (Network).md",
+                "file": "Notes/Programming & Scripting/Assembly/x86/Computer Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Blue Team/Signatures/Suricata (Network).md",
+                "file": "Notes/Programming & Scripting/Assembly/x86/Computer Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Team/Signatures/Suricata (Network).md"
+                "file": "Notes/Programming & Scripting/Assembly/x86/Computer Architecture.md"
               }
             }
           },
@@ -170,8 +170,10 @@
   },
   "active": "ae52691a340a5205",
   "lastOpenFiles": [
-    "Notes/Blue Team/Signatures/KQL (File, Network, and Host).md",
+    "Notes/Programming & Scripting/Assembly/Untitled.md",
+    "Notes/Programming & Scripting/Assembly/x86/Computer Architecture.md",
     "Notes/Blue Team/Signatures/Suricata (Network).md",
+    "Notes/Blue Team/Signatures/KQL (File, Network, and Host).md",
     "Notes/Blue Team/Signatures/Snort (Network).md",
     "Notes/Blue Team/Signatures/Sigma (Host).md",
     "Notes/Red Team/Binary Exploitation/Untitled.md",
@@ -204,8 +206,6 @@
     "Notes/Blue Team/Network Analysis/SSL Renegotiation Attacks.md",
     "Notes/Blue Team/Network Analysis/Anomalous HTTP Requests.md",
     "Notes/Blue Team/Network Analysis/ICMP Tunneling.md",
-    "Notes/Blue Team/Network Analysis/Helpful Networking.md",
-    "Notes/Blue Team/Network Analysis/Web Fuzzing.md",
     "Images/Pasted image 20240909072150.png",
     "Pasted image 20240909072150.png",
     "Notes/Network Analysis/Images/PDU.webp",
