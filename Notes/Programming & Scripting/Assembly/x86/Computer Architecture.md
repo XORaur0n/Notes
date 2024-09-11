@@ -25,7 +25,7 @@ Consists of Cache and RAM
 		Exists to access upcoming instructions quicker than retireving them from RAM. It is much faster than RAM 
 
 
-Cache Levels: 
+	Cache Levels: 
 
 
 | Level | Description                                                                                                    |
