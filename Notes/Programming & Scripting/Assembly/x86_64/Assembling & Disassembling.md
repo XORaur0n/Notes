@@ -29,5 +29,16 @@ The above will link the file and make it executable
 
 Disassembling: 
 
-ob
+objdump is best for this: 
+
+The below will output the assembly, the addresses, and the machine code. 
+
+	objdump -M intel -d [filename]
+	
+The below will do the same, but only show the assembly. 
+
+	objdump -M intel --no-show-raw-insn --no-addresses -d [filename]
+
+Sometimes 
+
 

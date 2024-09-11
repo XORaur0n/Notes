@@ -13,7 +13,7 @@ Specifically, looking at strange headers like:
 
 Detecting Attacks: 
 
-	Strange Host Headers: Use the following wireshark filter: 
+Strange Host Headers: Use the following wireshark filter: 
 	
 	http.request and (!(http.host == "[IP Address]"))
 
