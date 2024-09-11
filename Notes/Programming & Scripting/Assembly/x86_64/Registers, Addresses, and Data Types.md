@@ -59,4 +59,4 @@ Below is a table of all essential 64-bit sub-registers:
 
 -----------------------------------------
 
-Memory Addresses: 
+Memory Addresses: x86_64 chips obviously have 64-bit addresses, and their addresses range from 0x0 all the way to 0xffffffffffffffff. 
