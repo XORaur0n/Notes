@@ -59,3 +59,4 @@ Below is a table of all essential 64-bit sub-registers:
 
 -----------------------------------------
 
+Memory Addresses: 
