@@ -3,7 +3,6 @@
 
 -----------------------------------------
 
-
 **Data Registers:** Used for storing instructions/syscall arguments. 
 
 | Register          | Description                                                                                                      |
@@ -13,7 +12,8 @@
 | rcx (Count)       | Commonly used as a counter for loops and shifts                                                                  |
 | rdx (Data)        | Often used in arithmetic operations such as multiplication and division, and as an additional function parameter |
 | r8 - r15          | General purpose registers, can be used when all others are in use                                                |
-|                   |                                                                                                                  |
+
+-----------------------------------------
 
 **Pointer Registers:** Used to store important address pointers
 
@@ -23,3 +23,19 @@
 | rsp      | Current Stack Pointer, points to the current location (top) of the stack |
 | rip      | Instruction Pointer, holds the address of the next instruction           |
 
+-----------------------------------------
+
+**Sub-Registers:** Every 64 bit register can be divided into smaller registers containing the lower bits like: 
+
+1 byte (8-bits), 2 bytes (16-bits), and 4 bytes (32-bits)
+
+They can be accessed as: 
+
+| Size in bits | Size in bytes | Name                    | Example |
+|--------------|---------------|-------------------------|---------|
+| 16-bit       | 2 bytes        | the base name           | ax      |
+| 8-bit        | 1 byte         | base name and/or ends with l | al      |
+| 32-bit       | 4 bytes        | base name + starts with the e prefix | eax     |
+| 64-bit       | 8 bytes        | base name + starts with the r prefix | rax     |
+
+Below is a list of all gne
