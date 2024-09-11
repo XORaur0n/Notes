@@ -18,4 +18,5 @@ Alternatively you could link it yourself by
 
 	nasm -f elf64 [filename]
 
-The above will out put a 
+The above will out put a [filename].o
+
