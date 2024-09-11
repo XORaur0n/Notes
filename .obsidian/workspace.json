@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/File Structure.md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Assembling & Disassembling.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/File Structure.md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Assembling & Disassembling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/File Structure.md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Assembling & Disassembling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/File Structure.md"
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Assembling & Disassembling.md"
               }
             }
           },
@@ -170,9 +170,10 @@
   },
   "active": "ae52691a340a5205",
   "lastOpenFiles": [
+    "Notes/Programming & Scripting/Assembly/x86_64/File Structure.md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Assembling & Disassembling.md",
     "Pasted image 20240911132000.png",
     "Notes/Programming & Scripting/Assembly/x86_64/Registers, Addresses, and Data Types.md",
-    "Notes/Programming & Scripting/Assembly/x86_64/File Structure.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Computer Architecture.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Instruction Set Architectures (ISAs).md",
     "Notes/Programming & Scripting/Assembly/x86_64/CPU Architecture.md",
