@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86/Computer Architecture.md",
+                "file": "Notes/Programming & Scripting/Assembly/x86/CPU Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86/Computer Architecture.md",
+                "file": "Notes/Programming & Scripting/Assembly/x86/CPU Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86/Computer Architecture.md",
+                "file": "Notes/Programming & Scripting/Assembly/x86/CPU Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86/Computer Architecture.md"
+                "file": "Notes/Programming & Scripting/Assembly/x86/CPU Architecture.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   },
   "active": "ae52691a340a5205",
   "lastOpenFiles": [
-    "Notes/Programming & Scripting/Assembly/Untitled.md",
     "Notes/Programming & Scripting/Assembly/x86/Computer Architecture.md",
+    "Notes/Programming & Scripting/Assembly/x86/CPU Architecture.md",
+    "Notes/Programming & Scripting/Assembly/Untitled.md",
     "Notes/Blue Team/Signatures/Suricata (Network).md",
     "Notes/Blue Team/Signatures/KQL (File, Network, and Host).md",
     "Notes/Blue Team/Signatures/Snort (Network).md",
@@ -205,7 +206,6 @@
     "Notes/Blue Team/Network Analysis/Anomalous DNS Traffic.md",
     "Notes/Blue Team/Network Analysis/SSL Renegotiation Attacks.md",
     "Notes/Blue Team/Network Analysis/Anomalous HTTP Requests.md",
-    "Notes/Blue Team/Network Analysis/ICMP Tunneling.md",
     "Images/Pasted image 20240909072150.png",
     "Pasted image 20240909072150.png",
     "Notes/Network Analysis/Images/PDU.webp",
