@@ -35,6 +35,17 @@ Consists of Cache and RAM
 | 3     | Usually in megabytes (larger than L2), faster than RAM but slower than L1/L2. (Not all CPUs use L3.)<br>       |
 
 
+	RAM: 
+		
+		Much larger than cache and also much slower. When a program is run, all data & instructions are moved from the storage unit into RAM to be accessed when needed up the CPU. There are 4 segments of RAM. 
+
+
+	RAM Segments: 
+
+
+
+
+
 
 
 
