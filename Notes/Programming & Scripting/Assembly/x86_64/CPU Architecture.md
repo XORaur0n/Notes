@@ -26,5 +26,9 @@ The way in which and how efficiently a CPU processes instructions depends on its
 
 	All of the stages in the instruction cycle are carried out by the Control Unit, except when arithmetic instructions need to be executed "add, sub, ..etc", which are executed by the ALU.
 
-Because modern processor
+Each instruction cycle, takes multiple CPU clock cycles to complete (depending on the processor architecture & the instruction's complexity). 
+
+Because modern processors are multi-core & multi-thread, they can execute multiple instructions/clock cycles in tandem.
+
+
 
