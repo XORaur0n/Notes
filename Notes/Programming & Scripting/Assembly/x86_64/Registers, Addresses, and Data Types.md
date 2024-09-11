@@ -104,6 +104,15 @@ Big-Endian processors will store the value left to right.
 | double word (dword) | 32 bits - 4 bytes | 0xabcdef12        |
 | quad word (qword) | 64 bits - 8 bytes | 0xabcdef1234567890 |
 
-	We cannot use a variable 
+	We cannot use a variable defined as a byte with rax, since rax has 8 bytes. Instead we will need to use a sub-register, below is a list
+
+| Sub-register | Data Type |
+|--------------|-----------|
+| al           | byte      |
+| ax           | word      |
+| eax          | dword     |
+| rax          | qword     |
+
+
 
 
