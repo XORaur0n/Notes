@@ -4,9 +4,11 @@
 
 **IPv6 Addressing Types:** 
 
-		Unicast: Addresses for a single interface.
-		Anycast: Addresses for multiple interfaces, where only one of them receives the packet.
-		Multicast: Addresses for multiple interfaces, where all of them receive the same packet.
+Unicast: Addresses for a single interface.
+
+Anycast: Addresses for multiple interfaces, where only one of them receives the packet.
+
+Multicast: Addresses for multiple interfaces, where all of them receive the same packet.
 
 -----------------------------------------
 

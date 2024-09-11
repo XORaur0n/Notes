@@ -20,9 +20,9 @@ Strange Host Headers: Use the following wireshark filter:
 		Look for URIs like loopback addresses (127.0.0.1) and strings like 'admin'
 
 
-	Code 400s & Request Smuggling: 
+Code 400s & Request Smuggling: 
 
-		Use the following wireshark filter to see code 400s: 
+Use the following wireshark filter to see code 400s: 
 		
 	    http.response.code == 400
 
