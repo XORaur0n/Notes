@@ -87,6 +87,8 @@ Each segment has specific RWX permissions to determine whether we can read, writ
 
 **Endianness in Addressing:** Endianness is the order in which bytes are stored or retrieved from memory. 
 
-Little-Endian processors will store the value 
+Little-Endian processors will store the value from right to left
+
+Big-Endian processors will store the value left to right. 
 
 
