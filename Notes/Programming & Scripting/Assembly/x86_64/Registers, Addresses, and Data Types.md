@@ -59,4 +59,24 @@ Below is a table of all essential 64-bit sub-registers:
 
 -----------------------------------------
 
-Memory Addresses: x86_64 chips obviously have 64-bit addresses, and their addresses range from 0x0 all the way to 0xffffffffffffffff. 
+**Memory Addresses:** 
+
+x86_64 chips obviously have 64-bit addresses, and their addresses range from 0x0 all the way to 0xffffffffffffffff. RAM however, is segmented into regions such as the Stack, the heap, etc. 
+
+Each segment has specific RWX permissions to determine whether we can read, write to, or call an address on it. 
+
+| Addressing Mode | Description                                 | Example                       |
+|----------------|---------------------------------------------|-------------------------------|
+| Immediate      | The value is given within the instruction   | add 2                         |
+| Register       | The register name that holds the value is given in the instruction | add rax                       |
+| Direct         | The direct full address is given in the instruction | call 0xffffffffaa8a25ff       |
+| Indirect       | A reference pointer is given in the instruction | call 0x44d000 or call [rax]   |
+| Stack          | Address is on top of the stack              | add rsp                       |
+
+	** The lower on the table, the slower it will be fetched
+
+-----------------------------------------
+
+Endianness in Addressing: Enidianness is the order in which btyes are 
+
+
