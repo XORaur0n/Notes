@@ -168,12 +168,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acb270e06873b2de",
+  "active": "ae52691a340a5205",
   "lastOpenFiles": [
-    "Notes/Programming & Scripting/Assembly/x86_64/Instruction Set Architectures (ISAs).md",
-    "Notes/Programming & Scripting/Assembly/x86_64/Registers, Addresses, and Data Types.md",
-    "Notes/Programming & Scripting/Assembly/x86_64/CPU Architecture.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Computer Architecture.md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Registers, Addresses, and Data Types.md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Instruction Set Architectures (ISAs).md",
+    "Notes/Programming & Scripting/Assembly/x86_64/CPU Architecture.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Untitled",
     "Notes/Programming & Scripting/Assembly/x86_32",
     "Notes/Blue Team/Network Analysis/Anomalous DNS Traffic.md",

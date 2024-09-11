@@ -1,9 +1,13 @@
 
-**Registers:** The fastest components within the computer but can only hold a few bytes at a time. 
+**Registers:** 
+
+The fastest components within the computer but can only hold a few bytes at a time. 
 
 -----------------------------------------
 
-**Data Registers:** Used for storing instructions/syscall arguments. 
+**Data Registers:** 
+
+Used for storing instructions/syscall arguments. 
 
 | Register          | Description                                                                                                      |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -15,7 +19,9 @@
 
 -----------------------------------------
 
-**Pointer Registers:** Used to store important address pointers
+**Pointer Registers:** 
+
+Used to store important address pointers
 
 | Register | Description                                                              |
 | -------- | ------------------------------------------------------------------------ |
@@ -25,7 +31,9 @@
 
 -----------------------------------------
 
-**Sub-Registers:** Every 64 bit register can be divided into smaller registers containing the lower bits like: 
+**Sub-Registers:** 
+
+Every 64 bit register can be divided into smaller registers containing the lower bits like: 
 
 1 byte (8-bits), 2 bytes (16-bits), and 4 bytes (32-bits)
 
@@ -77,6 +85,8 @@ Each segment has specific RWX permissions to determine whether we can read, writ
 
 -----------------------------------------
 
-Endianness in Addressing: Enidianness is the order in which btyes are 
+**Endianness in Addressing:** Endianness is the order in which bytes are stored or retrieved from memory. 
+
+Little-Endian processors will store the value 
 
 
