@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Instruction Set Architectures (ISAs).md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Registers, Addresses, and Data Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Instruction Set Architectures (ISAs).md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Registers, Addresses, and Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Instruction Set Architectures (ISAs).md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Registers, Addresses, and Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Instruction Set Architectures (ISAs).md"
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Registers, Addresses, and Data Types.md"
               }
             }
           },
@@ -170,10 +170,11 @@
   },
   "active": "ae52691a340a5205",
   "lastOpenFiles": [
-    "Notes/Programming & Scripting/Assembly/x86_64/CPU Architecture.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Instruction Set Architectures (ISAs).md",
-    "Notes/Programming & Scripting/Assembly/x86_64/Untitled",
+    "Notes/Programming & Scripting/Assembly/x86_64/Registers, Addresses, and Data Types.md",
+    "Notes/Programming & Scripting/Assembly/x86_64/CPU Architecture.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Computer Architecture.md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Untitled",
     "Notes/Programming & Scripting/Assembly/x86_32",
     "Notes/Blue Team/Network Analysis/Anomalous DNS Traffic.md",
     "Notes/Programming & Scripting/Assembly/Untitled.md",
@@ -205,7 +206,6 @@
     "Notes/Blue Team/Analyzing .evtx/Useful Event Tracing Providers.md",
     "Notes/Blue Team/Analyzing .evtx/Windows Event Log Analysis.md",
     "Notes/Blue Team/Network Analysis/Anomalous Telnet Connections.md",
-    "Notes/Blue Team/Network Analysis/SSL Renegotiation Attacks.md",
     "Images/Pasted image 20240909072150.png",
     "Pasted image 20240909072150.png",
     "Notes/Network Analysis/Images/PDU.webp",
