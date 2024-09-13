@@ -107,3 +107,6 @@ CMP:
 | Instruction | Description                                                                                 | Example                       |
 | ----------- | ------------------------------------------------------------------------------------------- | ----------------------------- |
 | `cmp`       | Sets RFLAGS by subtracting the second operand from the first operand (i.e., first - second) | `cmp rax, rbx` -> `rax - rbx` |
+
+-------------------------------------------
+
