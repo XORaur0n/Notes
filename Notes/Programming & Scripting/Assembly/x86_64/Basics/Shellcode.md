@@ -130,6 +130,7 @@ Debugging Shellcode:
 The following will convert the shellcode into an executable ELF format:
 
 ```python
-ELF
+>>> from pwn import *
+>>> ELF.from_bytes(unhex('[shellcode]')).save('[file name]')
 
 ```
