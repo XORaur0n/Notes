@@ -1,9 +1,11 @@
 
 Install GEF plugin: 
 
+	wget -O ~/.gdbinit-gef.py -q https://gef.blah.cat/py
 
+	echo source ~/.gdbinit-gef.py >> ~/.gdbinit
 
-
+-------------------------------------------
 
 **Steps of Debugging:** 
 
@@ -20,7 +22,19 @@ Install GEF plugin:
 
 Breakpoints are set when specific parameters are met so we can examine the program & register values at that particular point. This allows for stepping into instructions to determine how they change the program & values. 
 
-You can set breakpoints at specific addresses or functions. 
+You can set breakpoints at specific addresses or functions like this within the gef prompt: 
+
+	b _[function]
+
+To run the code to the break:
+
+	r
+
+Can also set break at addresses like: 
+
+	b *0x40100a
+
+	b _start+10
 
 -------------------------------------------
 
