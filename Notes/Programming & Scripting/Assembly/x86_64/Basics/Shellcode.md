@@ -183,14 +183,24 @@ mov rsi 'string'
 2. `Push` `strings` onto the `stack` and then use them
 
 ```nasm
-# You could try it this way
+; You could try it this way, pushing the string onto the stack 16-bytes at a time, backwards...
 
     push 'y!'
     push 'B Academ'
     push 'Hello HT'
     mov rsi, rsp
-#But this wxceeds the amount allowed by immediate strings push
 
+; But this exceeds the amount allowed by immediate strings push (dword's bound is 4-bytes)
 
+; Below is the way to bypass this, move the string into `rbx` and then push `rbx` onto the `Stack`
+
+ mov rbx, 'y!'
+    push rbx
+    mov rbx, 'B Academ'
+    push rbx
+    mov rbx, 'Hello HT'
+    push rbx
+    mov rsi, rsp
+    
 ```
 
