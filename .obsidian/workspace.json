@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Assembling & Disassembling.md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Computer Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Assembling & Disassembling.md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Computer Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Assembling & Disassembling.md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Computer Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Assembling & Disassembling.md"
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Computer Architecture.md"
               }
             }
           },
@@ -182,10 +182,10 @@
   },
   "active": "a895848bfed17536",
   "lastOpenFiles": [
+    "Notes/Programming & Scripting/Assembly/x86_64/Basics/Assembling & Disassembling.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Debugging with GNU Debugger (GDB).md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Instructions & Flags.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Registers, Addresses, and Data Types.md",
-    "Notes/Programming & Scripting/Assembly/x86_64/Basics/Assembling & Disassembling.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Instruction Set Architectures (ISAs).md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/File Structure.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/CPU Architecture.md",
