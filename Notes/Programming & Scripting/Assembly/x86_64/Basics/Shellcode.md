@@ -124,7 +124,7 @@ The following will turn the shellcode back into binary and run it:
 ```
 
 
-Debugging Shellcode: 
+**Debugging Shellcode:** 
 
 The following will convert the shellcode into an executable ELF format:
 
