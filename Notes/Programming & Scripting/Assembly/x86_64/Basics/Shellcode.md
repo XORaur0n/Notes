@@ -44,8 +44,16 @@ Also, many attacks rely on existing executables (`elf or .exe)` or libraries lik
 
 **Assembly into Machine Code:** 
 
-Each x86 instruction & each register has its own binary machine code (usually in hex), which represents the binary code the CPU will execute in 
+Each x86 `instruction` & each `register` has its own binary machine code (usually in hex), which represents the binary code the CPU will execute.
 
+Common combinations of `instructions` & `registers` have their own machine code too. When the x86 is assembled, its converted into respective machine code for the CPU to execute
+
+
+PwnTools: 
+
+Once installed use: 
+
+	pwn asm '[instruction]' -c '[x86]'
 
 
 
