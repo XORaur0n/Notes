@@ -75,4 +75,22 @@
 | `jle`       | D <= S    | Destination `Less than or Equal to Source`         |
 
 
-R 
+**RFLAGS Register:** 
+
+RFLAGS as 64-bits just like the others, but doesn't hold values but flag bits instead. 
+
+	Each bit turns to 1 or 0 depending on the previous isntruction
+
+	Arithmetic operations set the RFLAG bits depending on their outcome. 
+
+
+RFLAGS has a 32-bit sub-register (EFLAGS) & a 16-bit one (FLAGS). The ones we usually care about are: 
+
+| Flag | Description                                      |
+|------|--------------------------------------------------|
+| CF   | Indicates whether there is a carry out from the most significant bit (used for unsigned arithmetic) |
+| PF   | Indicates whether the number of set bits in the result is even (used for parity checking) |
+| ZF   | Indicates whether the result of an operation is zero |
+| SF   | Indicates whether the result of an operation is negative (based on the most significant bit) |
+
+For reference here are all of the flags within the RFLAGS register
