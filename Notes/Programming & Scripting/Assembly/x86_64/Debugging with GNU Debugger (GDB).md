@@ -81,3 +81,18 @@ Also use the following to see current values in registers:
 
 **Step:** 
 
+To step through each instruction one by one use: 
+
+	si
+
+To step ahead a certain number of instructions use the above followed by a number
+
+To continue through the function you're on until another one is called or the function breaks at the end of the program use: 
+
+	step
+
+
+-------------------------------------------
+
+**Modify:** 
+
