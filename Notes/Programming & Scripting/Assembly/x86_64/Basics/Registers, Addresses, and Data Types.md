@@ -39,12 +39,12 @@ Every 64 bit register can be divided into smaller registers containing the lower
 
 They can be accessed as: 
 
-| Size in bits | Size in bytes | Name                    | Example |
-|--------------|---------------|-------------------------|---------|
-| 16-bit       | 2 bytes        | the base name           | ax      |
-| 8-bit        | 1 byte         | base name and/or ends with l | al      |
-| 32-bit       | 4 bytes        | base name + starts with the e prefix | eax     |
-| 64-bit       | 8 bytes        | base name + starts with the r prefix | rax     |
+| Size in bits | Size in bytes | Name                                 | Example |
+| ------------ | ------------- | ------------------------------------ | ------- |
+| 16-bit       | 2 bytes       | the base name                        | ax      |
+| 8-bit        | 1 byte        | base name and/or ends with l         | al      |
+| 32-bit       | 4 bytes       | base name + starts with the e prefix | eax     |
+| 64-bit       | 8 bytes       | base name + starts with the r prefix | rax     |
 
 Below is a table of all essential 64-bit sub-registers: 
 

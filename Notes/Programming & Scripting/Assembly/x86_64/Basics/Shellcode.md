@@ -222,4 +222,10 @@ If any calls/references to direct addresses come up, we can remedy them by:
 
 **Removing NULL:** 
 
-`NULL` characters (`0x00`) are used to terminate s
+`NULL` characters (`0x00`) are used to terminate strings and if encountered will cause issues & might cause the program to terminate early. So it's important to make sure that shellcode doesn't contain any NULL bytes
+
+`NULL` bytes are commonly found when moving small numbers into larger registers, the number is padded with an extra `00` to fit the bigger register. 
+
+To avoid this, we need to use `regtisters` that fit our data size. 
+
+
