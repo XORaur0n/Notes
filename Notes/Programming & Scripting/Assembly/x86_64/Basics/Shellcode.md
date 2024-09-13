@@ -204,3 +204,4 @@ mov rsi 'string'
     
 ```
 
+	When we push a string to the stack a 00 needs to be pushed before it to termina
