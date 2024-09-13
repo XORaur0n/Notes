@@ -96,3 +96,7 @@ To continue through the function you're on until another one is called or the fu
 
 **Modify:** 
 
+To modify values you can use 
+
+	patch [type] [address] "[new value]"
+	also use \x0a if you want it to start a new line
