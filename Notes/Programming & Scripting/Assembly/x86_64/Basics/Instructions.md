@@ -51,4 +51,9 @@
 -------------------------------------------
 
 
-Unconditional Branching: 
+**Unconditional Branching:** 
+
+| Instruction | Description                                | Example       |
+|-------------|--------------------------------------------|---------------|
+| `jmp`       | Jumps to the specified label, address, or location | `jmp loop` |
+
