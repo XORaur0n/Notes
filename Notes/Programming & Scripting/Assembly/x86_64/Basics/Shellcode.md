@@ -206,5 +206,9 @@ mov rsi 'string'
 
 -------------------------------------------
 
+**Removing Addresses:** 
 
+We aren't using any `addresses` in any of the shellcode, but we may see references (`calls & loops)`, so we have to make sure that the shellcode will know how to make a call with whatever environment it runs in.
+
+To do this we cannot reference direct `addresses` (`call 0xffffffffaa8a25ff`), but we can make calls to labels (`call loopName)` or relative `addresses` 
 
