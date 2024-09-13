@@ -53,8 +53,6 @@ Examine Format for FMT:
 | **Format** | The format in which we want the result to be represented. | `x` (hexadecimal), `s` (string), `i` (instruction)           |
 | **Size**   | The size of memory we want to examine.                    | `b` (byte), `h` (halfword), `w` (word), `g` (giant, 8 bytes) |
 
--------------------------------------------
-
 Instructions:
 
 In order to see the next 4 instructions for instance, we will need to examine the rip register (which holds the next instruction), use `4` for the count, `i` for the format, and `g` for the size. The whole command as follows:
@@ -64,4 +62,22 @@ In order to see the next 4 instructions for instance, we will need to examine th
 
 Strings: 
 
-To pull strings
+To pull strings use: 
+
+	x/s [address]
+
+
+Addresses: 
+
+To look at hex use: 
+
+	x/wx [address]
+
+Also use the following to see current values in registers: 
+
+	registers
+
+-------------------------------------------
+
+**Step:** 
+
