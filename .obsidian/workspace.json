@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Assembling & Disassembling.md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Debugging with GNU Debugger (GDB).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Assembling & Disassembling.md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Debugging with GNU Debugger (GDB).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Assembling & Disassembling.md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Debugging with GNU Debugger (GDB).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Assembling & Disassembling.md"
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Debugging with GNU Debugger (GDB).md"
               }
             }
           },
@@ -170,6 +170,8 @@
   },
   "active": "ae52691a340a5205",
   "lastOpenFiles": [
+    "Notes/Programming & Scripting/Assembly/x86_64/Assembling & Disassembling.md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Debugging with GNU Debugger (GDB).md",
     "Notes/Blue Team/Network Analysis/Helpful Networking.md",
     "Notes/Blue Team/Network Analysis/Fragmentation Attacks.md",
     "Notes/Blue Team/Network Analysis/Deauthentication Attacks.md",
@@ -177,7 +179,6 @@
     "Notes/Blue Team/Network Analysis/Anomalous Telnet Connections.md",
     "Notes/Blue Team/Network Analysis/Anomalous HTTP Requests.md",
     "Notes/Blue Team/Network Analysis/Anomalous DNS Traffic.md",
-    "Notes/Programming & Scripting/Assembly/x86_64/Assembling & Disassembling.md",
     "Notes/Programming & Scripting/Assembly/x86_64/File Structure.md",
     "Pasted image 20240911132000.png",
     "Notes/Programming & Scripting/Assembly/x86_64/Registers, Addresses, and Data Types.md",
@@ -198,7 +199,6 @@
     "Notes/Red Team/Network Penetration Testing/Post-Exploitation/Untitled.md",
     "Notes/Red Team/Network Penetration Testing/Persistence/Untitled.md",
     "Notes/Red Team/Network Penetration Testing/Lateral Movement/Untitled.md",
-    "Notes/Red Team/Network Penetration Testing/Exploitation/Untitled.md",
     "Notes/Red Team/Bug Bounties",
     "Notes/Red Team/Binary Exploitation",
     "Notes/Red Team/Web App Penetration Testing",
