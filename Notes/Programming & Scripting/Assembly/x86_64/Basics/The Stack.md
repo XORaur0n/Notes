@@ -13,7 +13,7 @@ The Stack is designed to be last-in-first-out (LIFO), meaning that only the most
 
 	When pushing & popping things into & out of the stack, we need to do them in reverse like this: 
 
-```x86
+```nasm
 push rax
 pop rbx
 

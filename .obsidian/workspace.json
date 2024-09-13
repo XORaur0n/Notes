@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de21bd5eebf162cf",
+        "id": "9ed9a128cb99746f",
         "type": "tabs",
         "children": [
           {
-            "id": "288c9f43596c2253",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Programming & Scripting/Python3/Randomization and Lists.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae52691a340a5205",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Assembling & Disassembling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a895848bfed17536",
+            "id": "c41dfd0454ca9ee6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,16 +155,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a895848bfed17536",
+  "active": "c41dfd0454ca9ee6",
   "lastOpenFiles": [
-    "Notes/Programming & Scripting/Assembly/x86_64/Basics/Functions.md",
-    "Notes/Programming & Scripting/Assembly/x86_64/Basics/Shellcode.md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Basics/The Stack.md",
+    "Notes/Programming & Scripting/Python3/Randomization and Lists.md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Basics/Assembling & Disassembling.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Syscalls.md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Basics/Shellcode.md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Basics/Functions.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Registers, Addresses, and Data Types.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Instructions & Flags.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Debugging with GNU Debugger (GDB).md",
-    "Notes/Programming & Scripting/Assembly/x86_64/Basics/The Stack.md",
-    "Notes/Programming & Scripting/Assembly/x86_64/Basics/Assembling & Disassembling.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/CPU Architecture.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Computer Architecture.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/File Structure.md",
@@ -211,7 +187,6 @@
     "Notes/Blue Team/Signatures/Snort (Network).md",
     "Notes/Blue Team/Signatures/Sigma (Host).md",
     "Notes/Red Team/Binary Exploitation/Untitled.md",
-    "Notes/Red Team/Bug Bounties/Untitled.md",
     "Notes/Red Team/Bug Bounties",
     "Notes/Red Team/Binary Exploitation",
     "Notes/Red Team/Web App Penetration Testing",
