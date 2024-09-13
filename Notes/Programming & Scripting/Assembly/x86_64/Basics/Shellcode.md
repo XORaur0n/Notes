@@ -101,7 +101,7 @@ print(shellcode.hex())
 ```
 
 
-Bash script to do the same (with objdump)
+Bash script to do the same (with objdump):
 
 ```bash
 
@@ -114,11 +114,22 @@ for i in $(objdump -d $1 |grep "^ " |cut -f2); do echo -n $i; done; echo;
 
 **Loading Shellcode:** 
 
+The following will turn the shellcode back into binary and run it:
+
 ```python
 
 >>> from pwn import *
 >>> context(os="[OS]" , arch="[architecture]" , log_level="error")
->>> run_shellcode(unhex('[shellcode]'))
+>>> run_shellcode(unhex('[shellcode]')).interactive()
 
 ```
 
+
+Debugging Shellcode: 
+
+The following will convert the shellcode into an executable ELF format:
+
+```python
+ELF
+
+```
