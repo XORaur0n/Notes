@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Debugging with GNU Debugger (GDB).md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Instructions/Data Movement.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Debugging with GNU Debugger (GDB).md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Instructions/Data Movement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Debugging with GNU Debugger (GDB).md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Instructions/Data Movement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Debugging with GNU Debugger (GDB).md"
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Instructions/Data Movement.md"
               }
             }
           },
@@ -168,10 +168,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae52691a340a5205",
+  "active": "acb270e06873b2de",
   "lastOpenFiles": [
-    "Notes/Programming & Scripting/Assembly/x86_64/Registers, Addresses, and Data Types.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Debugging with GNU Debugger (GDB).md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Instructions/Data Movement.md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Instructions",
+    "Notes/Programming & Scripting/Assembly/x86_64/Registers, Addresses, and Data Types.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Assembling & Disassembling.md",
     "Notes/Blue Team/Network Analysis/Helpful Networking.md",
     "Notes/Blue Team/Network Analysis/Fragmentation Attacks.md",
@@ -185,7 +187,6 @@
     "Notes/Programming & Scripting/Assembly/x86_64/Computer Architecture.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Instruction Set Architectures (ISAs).md",
     "Notes/Programming & Scripting/Assembly/x86_64/CPU Architecture.md",
-    "Notes/Programming & Scripting/Assembly/x86_64/Untitled",
     "Notes/Programming & Scripting/Assembly/x86_32",
     "Notes/Programming & Scripting/Assembly/Untitled.md",
     "Notes/Blue Team/Signatures/Suricata (Network).md",
@@ -198,7 +199,6 @@
     "Notes/Red Team/Network Penetration Testing/Privilege Escalation/Untitled.md",
     "Notes/Red Team/Network Penetration Testing/Post-Exploitation/Untitled.md",
     "Notes/Red Team/Network Penetration Testing/Persistence/Untitled.md",
-    "Notes/Red Team/Network Penetration Testing/Lateral Movement/Untitled.md",
     "Notes/Red Team/Bug Bounties",
     "Notes/Red Team/Binary Exploitation",
     "Notes/Red Team/Web App Penetration Testing",
