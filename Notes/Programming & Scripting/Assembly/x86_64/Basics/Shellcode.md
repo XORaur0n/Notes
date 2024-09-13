@@ -49,11 +49,17 @@ Each x86 `instruction` & each `register` has its own binary machine code (usuall
 Common combinations of `instructions` & `registers` have their own machine code too. When the x86 is assembled, its converted into respective machine code for the CPU to execute
 
 
-PwnTools: 
+Determining Machine Codes: 
 
-Once installed use: 
+Once installed use the below to get the machine code for an instruction: 
 
-	pwn asm '[instruction]' -c '[x86]'
+	pwn asm '[instruction]' -c '[architecture]'
 
+
+-------------------------------------------
+
+**Extracting Shellcode:** 
+
+To read a binary:
 
 
