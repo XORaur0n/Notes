@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Syscalls.md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Syscalls.md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Syscalls.md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Syscalls.md"
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Functions.md"
               }
             }
           },
@@ -180,11 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acb270e06873b2de",
+  "active": "a895848bfed17536",
   "lastOpenFiles": [
+    "Notes/Programming & Scripting/Assembly/x86_64/Basics/Syscalls.md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Basics/Functions.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Registers, Addresses, and Data Types.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Instructions & Flags.md",
-    "Notes/Programming & Scripting/Assembly/x86_64/Basics/Syscalls.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Debugging with GNU Debugger (GDB).md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/The Stack.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Assembling & Disassembling.md",
@@ -211,7 +212,6 @@
     "Notes/Red Team/Binary Exploitation/Untitled.md",
     "Notes/Red Team/Bug Bounties/Untitled.md",
     "Notes/Red Team/Network Penetration Testing/Reconaissance/Untitled.md",
-    "Notes/Red Team/Network Penetration Testing/Privilege Escalation/Untitled.md",
     "Notes/Red Team/Bug Bounties",
     "Notes/Red Team/Binary Exploitation",
     "Notes/Red Team/Web App Penetration Testing",
