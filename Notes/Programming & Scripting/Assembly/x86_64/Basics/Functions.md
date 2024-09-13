@@ -9,4 +9,7 @@
 **Things to consider when writing a function:** 
 
 1. Saving `callee saved registers (rbx & rbp)`
-2. Get args from 
+2. Get `args` from `registers`
+3. Align the `stack` 
+4. Return value in `rax` 
+
