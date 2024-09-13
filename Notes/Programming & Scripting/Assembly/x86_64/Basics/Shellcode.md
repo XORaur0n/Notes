@@ -202,7 +202,7 @@ mov rsi 'string'
     
 ```
 
-	When we push a string to the stack a 00 needs to be pushed before it (remember backwards!) to terminate the string (unless you can specify the print length for the write syscall)
+	When we push a string to the stack a 00 needs to be pushed before it (remember backwards!) to terminate the string (unless you can specify the print length for a write syscall)
 
 -------------------------------------------
 
@@ -210,5 +210,16 @@ mov rsi 'string'
 
 We aren't using any `addresses` in any of the shellcode, but we may see references (`calls & loops)`, so we have to make sure that the shellcode will know how to make a call with whatever environment it runs in.
 
-To do this we cannot reference direct `addresses` (`call 0xffffffffaa8a25ff`), but we can make calls to labels (`call loopName)` or relative `addresses` 
+To do this we cannot reference direct `addresses` (`call 0xffffffffaa8a25ff`), but we can make calls to labels (`call loopName)` or relative `addresses` (`call 0x401020`)
 
+If any calls/references to direct addresses come up, we can remedy them by: 
+
+1. Replacing with `calls` to labels or` rip-relative addresses` (for `calls` and `loops`)
+
+2. Push to the `Stack` and use `rsp` as the `address` (for `mov` and other assembly instructions)
+
+-------------------------------------------
+
+**Removing NULL:** 
+
+`NULL` characters (`0x00`) are used to terminate s
