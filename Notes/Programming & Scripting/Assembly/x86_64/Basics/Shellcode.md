@@ -62,4 +62,18 @@ Once installed use the below to get the machine code for an instruction:
 
 To read a binary:
 
+```python
+>>>from pwn import *
+>>> file = [binary type](binary name)
 
+```
+
+
+
+To dump from a specific section/function use: 
+
+```python
+
+>>> file.section("[section/function]").hex()
+
+```
