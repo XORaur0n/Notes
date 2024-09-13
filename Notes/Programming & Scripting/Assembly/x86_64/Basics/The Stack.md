@@ -28,5 +28,9 @@ We will primarily be pushing data to the stack before we call a `function` or ma
 
 This is because `functions` and `syscalls` mostly use registers for processing, so if values stored within the register are changed once they're over, we will lose the data. 
 
+It always smart to push your registers onto the stack before the `function`/`syscall`
+
+
+
 
 
