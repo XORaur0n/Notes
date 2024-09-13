@@ -34,6 +34,18 @@ Its shellcode:
 
 **Use in Penetration Testing:**
 
-Being able to inject shellcode directly into memory and have it executed is a big part of binary exploitation. 
+Being able to inject shellcode directly into memory and have it executed is a big part of binary exploitation. Given that nothing is written to disk, it is much harder to detect
+
+Modern x86_64 systems have protections for doing this directly, but Return-Oriented Programming/Chaining are used to defeat these safeguards
+
+Also, many attacks rely on existing executables (`elf or .exe)` or libraries like (`.so or .dll)` to run before shellcode can be executed. 
+
+-------------------------------------------
+
+**Assembly into Machine Code:** 
+
+Each x86 instruction & each register has its own binary machine code (usually in hex), which represents the binary code the CPU will execute in 
+
+
 
 
