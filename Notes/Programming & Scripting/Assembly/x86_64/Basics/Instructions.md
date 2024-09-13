@@ -57,3 +57,6 @@
 |-------------|--------------------------------------------|---------------|
 | `jmp`       | Jumps to the specified label, address, or location | `jmp loop` |
 
+-------------------------------------------
+
+**Conditional Branching:** 
