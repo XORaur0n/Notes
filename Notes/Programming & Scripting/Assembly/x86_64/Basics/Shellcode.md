@@ -79,8 +79,11 @@ Next, to dump from a specific section/function use:
 ```
 
 
-Code to extract shellcode of any binary: 
+Python script to extract shellcode of any binary: 
 
+
+```
+```
 ```python
 
 #!/usr/bin/python3
@@ -96,4 +99,18 @@ print(shellcode.hex())
 
 
 ```
+
+
+Bash script to do the same (with objdump)
+
+```bash
+
+for i in $(objdump -d $1 |grep "^ " |cut -f2); do echo -n $i; done; echo;
+
+```
+
+
+-------------------------------------------
+
+Loading Shellcode: 
 
