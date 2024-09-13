@@ -110,3 +110,10 @@ CMP:
 
 -------------------------------------------
 
+**Stack Operations:** 
+
+
+| Instruction | Description                                            | Example      |
+|-------------|--------------------------------------------------------|--------------|
+| `push`      | Copies the specified register/address to the top of the stack | `push rax`   |
+| `pop`       | Moves the item at the top of the stack to the specified register/address | `pop rax`    |
