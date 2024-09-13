@@ -40,5 +40,18 @@ Can also set break at addresses like:
 
 **Examine:** 
 
+To manually examine any address or registers we can use: 
+
+	x/[FMT] [Address]
+
+
+Examine Format for FMT:
+
+| Argument | Description | Example |
+|----------|-------------|---------|
+| **Count** | The number of times we want to repeat the examination. | `2`, `3`, `10` |
+| **Format** | The format in which we want the result to be represented. | `x` (hexadecimal), `s` (string), `i` (instruction) |
+| **Size** | The size of memory we want to examine. | `b` (byte), `h` (halfword), `w` (word), `g` (giant, 8 bytes) |
+
 
 
