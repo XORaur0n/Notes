@@ -51,9 +51,20 @@ Common combinations of `instructions` & `registers` have their own machine code 
 
 Determining Machine Codes: 
 
-Once installed use the below to get the machine code for an instruction: 
+Once installed use the below to get the machine code for an instruction and vice/versa: 
 
-	pwn asm '[instruction]' -c '[architecture]'
+```shell
+
+#to assemble the code and get the shellcode
+
+pwn asm '[instruction]' -c '[architecture]'
+
+#to disassemble the shellcode and get the raw instruction(s)
+
+pwn disasm '[machine code]' -c '[architecture]'
+
+
+```
 
 
 -------------------------------------------
