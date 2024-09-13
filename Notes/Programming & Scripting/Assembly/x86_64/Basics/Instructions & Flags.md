@@ -11,7 +11,7 @@
 
 -------------------------------------------
 
-**Unary Instructions: (1 operand)** 
+**Arithmetic Unary Instructions: (1 operand)** 
 
 | Instruction | Description    | Example                            |
 | ----------- | -------------- | ---------------------------------- |
@@ -20,7 +20,7 @@
 
 -------------------------------------------
 
-**Binary Instructions: (2 operands)** 
+**Arithmetic Binary Instructions: (2 operands)** 
 
 | Instruction | Description                                | Example                               |
 |-------------|--------------------------------------------|---------------------------------------|
@@ -75,7 +75,7 @@
 | `jle`       | D <= S    | Destination `Less than or Equal to Source`         |
 
 
-**RFLAGS Register:** 
+RFLAGS Register:
 
 RFLAGS as 64-bits just like the others, but doesn't hold values but flag bits instead. 
 
@@ -93,4 +93,17 @@ RFLAGS has a 32-bit sub-register (EFLAGS) & a 16-bit one (FLAGS). The ones we us
 | ZF   | Indicates whether the result of an operation is zero |
 | SF   | Indicates whether the result of an operation is negative (based on the most significant bit) |
 
-For reference here are all of the flags within the RFLAGS register
+For reference here are all of the flags within the RFLAGS register: 
+
+
+| Bit(s)      | 0          | 1        | 2           | 3        | 4                    | 5        | 6          | 7         | 8         | 9              | 10             | 11            | 12-13               | 14          | 15       | 16          | 17               | 18                               | 19                     | 20                        | 21                  | 22-63    |
+| ----------- | ---------- | -------- | ----------- | -------- | -------------------- | -------- | ---------- | --------- | --------- | -------------- | -------------- | ------------- | ------------------- | ----------- | -------- | ----------- | ---------------- | -------------------------------- | ---------------------- | ------------------------- | ------------------- | -------- |
+| Label       | CF (CY/NC) | 1        | PF (PE/PO)  | 0        | AF (AC/NA)           | 0        | ZF (ZR/NZ) | SF        | TF        | IF             | DF             | OF            | IOPL                | NT          | 0        | RF          | VM               | AC                               | VIF                    | VIP                       | ID                  | 0        |
+| Description | Carry Flag | Reserved | Parity Flag | Reserved | Auxiliary Carry Flag | Reserved | Zero Flag  | Sign Flag | Trap Flag | Interrupt Flag | Direction Flag | Overflow Flag | I/O Privilege Level | Nested Task | Reserved | Resume Flag | Virtual-x86 Mode | Alignment Check / Access Control | Virtual Interrupt Flag | Virtual Interrupt Pending | Identification Flag | Reserved |
+
+
+CMP: 
+
+| Instruction | Description                                                                                 | Example                       |
+| ----------- | ------------------------------------------------------------------------------------------- | ----------------------------- |
+| `cmp`       | Sets RFLAGS by subtracting the second operand from the first operand (i.e., first - second) | `cmp rax, rbx` -> `rax - rbx` |
