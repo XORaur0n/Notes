@@ -1,4 +1,6 @@
 
+**Data Movement:** 
+
 | Instruction | Description                                  | Example                                    |
 | ----------- | -------------------------------------------- | ------------------------------------------ |
 | **mov**     | Move data or load immediate data             | `mov rax, 1` → `rax = 1`                   |
@@ -7,5 +9,7 @@
 
 	mov doesn't change the source operand, so it operates more like a copy function
 
+-------------------------------------------
 
+**Unary (1) Instructions:** 
 
