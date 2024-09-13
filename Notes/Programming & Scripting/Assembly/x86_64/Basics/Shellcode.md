@@ -63,6 +63,7 @@ Once installed use the below to get the machine code for an instruction:
 To read a binary:
 
 ```python
+#from python3 interpreter
 >>>from pwn import *
 >>> file = [binary type](binary name)
 
@@ -73,7 +74,7 @@ To read a binary:
 Next, to dump from a specific section/function use: 
 
 ```python
-
+#from python3 interpreter
 >>> file.section("[section/function]").hex()
 
 ```
@@ -103,6 +104,7 @@ print(shellcode.hex())
 Bash script to do the same (with objdump):
 
 ```bash
+#!bin/bash
 
 for i in $(objdump -d $1 |grep "^ " |cut -f2); do echo -n $i; done; echo;
 
@@ -117,6 +119,8 @@ The following will turn the shellcode back into binary and run it:
 
 ```python
 
+#from python3 interpreter
+
 >>> from pwn import *
 >>> context(os="[OS]" , arch="[architecture]" , log_level="error")
 >>> run_shellcode(unhex('[shellcode]')).interactive()
@@ -129,6 +133,7 @@ The following will turn the shellcode back into binary and run it:
 The following will convert the shellcode into an executable ELF format:
 
 ```python
+#from python3 interpreter
 >>> from pwn import *
 >>> ELF.from_bytes(unhex('[shellcode]')).save('[file name]')
 
