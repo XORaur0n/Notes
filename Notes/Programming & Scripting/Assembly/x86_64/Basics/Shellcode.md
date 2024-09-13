@@ -166,5 +166,9 @@ In order to produce working shellcode it must meet the following criteria:
 
 **Removing Variables:** 
 
-Since shellcode is supposed to be directly executable once loaded into memory (without loading data from other segments like `)
+Since shellcode is supposed to be directly executable once loaded into memory (without loading data from other segments like `.data or .bss`.  This is because it is normally blocked by `Data Execution Prevention (DEP)`
+
+The `.text` segments are not writable, as in we cannot write any variables to it. The `.data` segments are not executable, as in we cannot write executable code to it. 
+
+So, in order to run shellcode it must be written into the `.text` segment
 
