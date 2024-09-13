@@ -11,8 +11,15 @@ The Stack is designed to be last-in-first-out (LIFO), meaning that only the most
 	If rax is pushed onto the stack, the top of the stack is now the value of rax
 	If anything is pushed on top of rax, it will need to be popped off before you can pop the originial value back into rax
 
-	When pushing & popping things into & out of the stack, we need to do them i
+	When pushing & popping things into & out of the stack, we need to do them in reverse like this: 
 
+```x86
+push rax
+pop rbx
+
+pop rbx
+pop rax
+```
 -------------------------------------------
 
 **Usage**: 
