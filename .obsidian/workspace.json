@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Assembling & Disassembling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a895848bfed17536",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Notes/Programming & Scripting/Assembly/x86_64/Instructions/Data Movement.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,13 +180,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acb270e06873b2de",
+  "active": "a895848bfed17536",
   "lastOpenFiles": [
-    "Notes/Programming & Scripting/Assembly/x86_64/Debugging with GNU Debugger (GDB).md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Basics/Computer Architecture.md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Basics/Assembling & Disassembling.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Instructions/Data Movement.md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Basics",
+    "Notes/Programming & Scripting/Assembly/x86_64/Basics/Debugging with GNU Debugger (GDB).md",
     "Notes/Programming & Scripting/Assembly/x86_64/Instructions",
-    "Notes/Programming & Scripting/Assembly/x86_64/Registers, Addresses, and Data Types.md",
-    "Notes/Programming & Scripting/Assembly/x86_64/Assembling & Disassembling.md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Basics/Registers, Addresses, and Data Types.md",
     "Notes/Blue Team/Network Analysis/Helpful Networking.md",
     "Notes/Blue Team/Network Analysis/Fragmentation Attacks.md",
     "Notes/Blue Team/Network Analysis/Deauthentication Attacks.md",
@@ -182,11 +196,10 @@
     "Notes/Blue Team/Network Analysis/Anomalous Telnet Connections.md",
     "Notes/Blue Team/Network Analysis/Anomalous HTTP Requests.md",
     "Notes/Blue Team/Network Analysis/Anomalous DNS Traffic.md",
-    "Notes/Programming & Scripting/Assembly/x86_64/File Structure.md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Basics/File Structure.md",
     "Pasted image 20240911132000.png",
-    "Notes/Programming & Scripting/Assembly/x86_64/Computer Architecture.md",
-    "Notes/Programming & Scripting/Assembly/x86_64/Instruction Set Architectures (ISAs).md",
-    "Notes/Programming & Scripting/Assembly/x86_64/CPU Architecture.md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Basics/Instruction Set Architectures (ISAs).md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Basics/CPU Architecture.md",
     "Notes/Programming & Scripting/Assembly/x86_32",
     "Notes/Programming & Scripting/Assembly/Untitled.md",
     "Notes/Blue Team/Signatures/Suricata (Network).md",
@@ -198,7 +211,6 @@
     "Notes/Red Team/Network Penetration Testing/Reconaissance/Untitled.md",
     "Notes/Red Team/Network Penetration Testing/Privilege Escalation/Untitled.md",
     "Notes/Red Team/Network Penetration Testing/Post-Exploitation/Untitled.md",
-    "Notes/Red Team/Network Penetration Testing/Persistence/Untitled.md",
     "Notes/Red Team/Bug Bounties",
     "Notes/Red Team/Binary Exploitation",
     "Notes/Red Team/Web App Penetration Testing",
@@ -206,7 +218,6 @@
     "Notes/Helpful Commands",
     "Notes/Red Team/AD Penetration Testing",
     "Notes/Red Team",
-    "Notes/Blue Team",
     "Images/Pasted image 20240909072150.png",
     "Pasted image 20240909072150.png",
     "Notes/Network Analysis/Images/PDU.webp",

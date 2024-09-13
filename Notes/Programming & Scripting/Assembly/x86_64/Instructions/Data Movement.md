@@ -5,5 +5,5 @@
 | **lea**     | Load an address pointing to the value        | `lea rax, [rsp+5]` → `rax = rsp + 5`       |
 | **xchg**    | Swap data between two registers or addresses | `xchg rax, rbx` → `rax = rbx`, `rbx = rax` |
 
-	mov doesn't change the source operand, so it operates more liek a copy function
+	mov doesn't change the source operand, so it operates more like a copy function
 
