@@ -149,3 +149,22 @@ The following will convert the shellcode into an executable ELF format:
 >>> ELF.from_bytes(unhex('[shellcode]')).save('[file name]')
 
 ```
+
+
+-------------------------------------------
+
+
+**Requirements**: 
+
+In order to produce working shellcode it must meet the following criteria: 
+
+1. Doesn't contain `variables`
+2. Doesn't refer to direct memory `addresses`
+3. Doesn't contain any NULL bytes `00` 
+
+-------------------------------------------
+
+**Removing Variables:** 
+
+Since shellcode is supposed to be directly executable once loaded into memory (without loading data from other segments like `)
+
