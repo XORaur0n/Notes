@@ -183,6 +183,13 @@ mov rsi 'string'
 2. `Push` `strings` onto the `stack` and then use them
 
 ```nasm
+# You could try it this way
+
+    push 'y!'
+    push 'B Academ'
+    push 'Hello HT'
+    mov rsi, rsp
+#But this wxceeds the amount allowed by immediate strings push
 
 
 ```
