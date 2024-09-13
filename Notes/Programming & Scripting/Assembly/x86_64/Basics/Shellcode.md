@@ -68,12 +68,32 @@ To read a binary:
 
 ```
 
-                 ↓
 
-To dump from a specific section/function use: 
+
+Next, to dump from a specific section/function use: 
 
 ```python
 
 >>> file.section("[section/function]").hex()
 
 ```
+
+
+Code to extract shellcode of any binary: 
+
+```python
+
+#!/usr/bin/python3
+
+import sys
+from pwn import *
+
+context(os="linux", arch="amd64", log_level="error")
+
+file = ELF(sys.argv[1])
+shellcode = file.section(".text")
+print(shellcode.hex())
+
+
+```
+
