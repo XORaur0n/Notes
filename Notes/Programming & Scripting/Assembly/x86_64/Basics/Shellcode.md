@@ -81,7 +81,6 @@ Next, to dump from a specific section/function use:
 
 Python script to extract shellcode of any binary: 
 
-
 ```
 ```
 ```python
