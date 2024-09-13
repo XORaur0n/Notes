@@ -41,3 +41,13 @@
 
 -------------------------------------------
 
+**Loops:** 
+
+| Instruction                 | Description                                                     | Example            |
+| --------------------------- | --------------------------------------------------------------- | ------------------ |
+| `mov rcx, [number of loops` | Sets the loop counter (`rcx`) to `x`                            | `mov rcx, 3`       |
+| `loop`                      | Jumps back to the start of the loop until the counter reaches 0 | `loop exampleLoop` |
+
+-------------------------------------------
+
+
