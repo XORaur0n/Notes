@@ -47,11 +47,21 @@ To manually examine any address or registers we can use:
 
 Examine Format for FMT:
 
-| Argument | Description | Example |
-|----------|-------------|---------|
-| **Count** | The number of times we want to repeat the examination. | `2`, `3`, `10` |
-| **Format** | The format in which we want the result to be represented. | `x` (hexadecimal), `s` (string), `i` (instruction) |
-| **Size** | The size of memory we want to examine. | `b` (byte), `h` (halfword), `w` (word), `g` (giant, 8 bytes) |
+| Argument   | Description                                               | Example                                                      |
+| ---------- | --------------------------------------------------------- | ------------------------------------------------------------ |
+| **Count**  | The number of times we want to repeat the examination.    | `2`, `3`, `10`                                               |
+| **Format** | The format in which we want the result to be represented. | `x` (hexadecimal), `s` (string), `i` (instruction)           |
+| **Size**   | The size of memory we want to examine.                    | `b` (byte), `h` (halfword), `w` (word), `g` (giant, 8 bytes) |
+
+-------------------------------------------
+
+Instructions:
+
+In order to see the next 4 instructions for instance, we will need to examine the rip register (which holds the next instruction), use `4` for the count, `i` for the format, and `g` for the size. The whole command as follows:
+
+	x/4ig $rip
 
 
+Strings: 
 
+To pull strings
