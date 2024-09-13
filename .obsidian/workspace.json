@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Shellcode.md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Shellcoding Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Shellcode.md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Shellcoding Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Shellcode.md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Shellcoding Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Shellcode.md"
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/Shellcoding Tools.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "c41dfd0454ca9ee6",
   "lastOpenFiles": [
-    "Notes/Programming & Scripting/Assembly/x86_64/Basics/Registers, Addresses, and Data Types.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Shellcode.md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Basics/Shellcoding Tools.md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Basics/Registers, Addresses, and Data Types.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Syscalls.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/The Stack.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Assembling & Disassembling.md",
@@ -186,7 +187,6 @@
     "Notes/Blue Team/Signatures/KQL (File, Network, and Host).md",
     "Notes/Blue Team/Signatures/Snort (Network).md",
     "Notes/Blue Team/Signatures/Sigma (Host).md",
-    "Notes/Red Team/Binary Exploitation/Untitled.md",
     "Notes/Red Team/Bug Bounties",
     "Notes/Red Team/Binary Exploitation",
     "Notes/Red Team/Web App Penetration Testing",
