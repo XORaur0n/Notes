@@ -32,4 +32,8 @@ Its shellcode:
 
 -------------------------------------------
 
-**Use Cases:** 
+**Use in Penetration Testing:**
+
+Being able to inject shellcode directly into memory and have it executed is a big part of binary exploitation. 
+
+
