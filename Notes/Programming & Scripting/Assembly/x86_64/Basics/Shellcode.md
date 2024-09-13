@@ -68,7 +68,7 @@ To read a binary:
 
 ```
 
-
+                 ↓
 
 To dump from a specific section/function use: 
 
