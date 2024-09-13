@@ -228,4 +228,18 @@ If any calls/references to direct addresses come up, we can remedy them by:
 
 To avoid this, we need to use `regtisters` that fit our data size. 
 
+```nasm
+
+; Instead of this:
+
+mov rax, 1
+
+; Do this: 
+
+mov al , 1 
+
+; (because al is an 8-bit/ 1 byte) register)
+
+```
+
 
