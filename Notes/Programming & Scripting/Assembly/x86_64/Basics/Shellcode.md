@@ -93,8 +93,6 @@ Next, to dump from a specific section/function use:
 
 Python script to extract shellcode of any binary: 
 
-```
-```
 ```python
 
 #!/usr/bin/python3
@@ -204,4 +202,9 @@ mov rsi 'string'
     
 ```
 
-	When we push a string to the stack a 00 needs to be pushed before it to termina
+	When we push a string to the stack a 00 needs to be pushed before it (remember backwards!) to terminate the string (unless you can specify the print length for the write syscall)
+
+-------------------------------------------
+
+
+
