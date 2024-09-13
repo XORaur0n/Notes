@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Instructions & Flags.md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/The Stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Instructions & Flags.md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/The Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Instructions & Flags.md",
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/The Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Instructions & Flags.md"
+                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/The Stack.md"
               }
             }
           },
@@ -180,10 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a895848bfed17536",
+  "active": "acb270e06873b2de",
   "lastOpenFiles": [
-    "Notes/Programming & Scripting/Assembly/x86_64/Basics/The Stack.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Instructions & Flags.md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Basics/The Stack.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/CPU Architecture.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Computer Architecture.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Debugging with GNU Debugger (GDB).md",
