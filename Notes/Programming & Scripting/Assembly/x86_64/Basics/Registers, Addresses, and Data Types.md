@@ -97,12 +97,14 @@ Big-Endian processors will store the value left to right.
 
 **Data Types:** 
 
-| Component        | Length           | Example            |
-|------------------|-------------------|--------------------|
-| byte             | 8 bits            | 0xab               |
-| word             | 16 bits - 2 bytes | 0xabcd             |
-| double word (dword) | 32 bits - 4 bytes | 0xabcdef12        |
-| quad word (qword) | 64 bits - 8 bytes | 0xabcdef1234567890 |
+| Component             | Length            | Example              |
+| --------------------- | ----------------- | -------------------- |
+| `byte (db)`           | 8 bits            | `0xab`               |
+| `word (dw)`           | 16 bits - 2 bytes | `0xabcd`             |
+| `double word (dword)` | 32 bits - 4 bytes | `0xabcdef12`         |
+| `quad word (qword)`   | 64 bits - 8 bytes | `0xabcdef1234567890` |
+
+
 
 	We cannot use a variable defined as a byte with rax, since rax has 8 bytes. Instead we will need to use a sub-register, below is a list
 

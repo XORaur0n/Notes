@@ -180,6 +180,10 @@ In order to avoid using variables you can:
 mov rsi 'string'
 ```
 
-
 2. `Push` `strings` onto the `stack` and then use them
+
+```nasm
+
+
+```
 
