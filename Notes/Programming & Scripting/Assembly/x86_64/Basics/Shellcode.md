@@ -170,5 +170,16 @@ Since shellcode is supposed to be directly executable once loaded into memory (w
 
 The `.text` segments are not writable, as in we cannot write any variables to it. The `.data` segments are not executable, as in we cannot write executable code to it. 
 
-So, in order to run shellcode it must be written into the `.text` segment
+So, in order to run shellcode it must be written into the `.text` segment.
+
+In order to avoid using variables you can: 
+
+1. Move immediate `strings` to `registers`
+
+```nasm
+mov rsi 'string'
+```
+
+
+2. `Push` `strings` onto the `stack` and then use them
 
