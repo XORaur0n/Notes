@@ -60,3 +60,19 @@
 -------------------------------------------
 
 **Conditional Branching:** 
+
+*D is destination*
+
+| Instruction | Condition | Description                                        |
+| ----------- | --------- | -------------------------------------------------- |
+| `jz`        | D = 0     | Destination `equal to Zero`                        |
+| `jnz`       | D != 0    | Destination `Not equal to Zero`                    |
+| `js`        | D < 0     | Destination` is Negative`                          |
+| `jns`       | D >= 0    | Destination `is Not Negative (i.e. 0 or positive)` |
+| `jg`        | D > S     | Destination `Greater than Source`                  |
+| `jge`       | D >= S    | Destination `Greater than or Equal to Source`      |
+| `jl`        | D < S     | Destination `Less than Source`                     |
+| `jle`       | D <= S    | Destination `Less than or Equal to Source`         |
+
+
+R 
