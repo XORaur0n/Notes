@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
+                "file": "Notes/Blue Team/Malware Analysis/Linux/Static Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
+                "file": "Notes/Blue Team/Malware Analysis/Linux/Static Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
+                "file": "Notes/Blue Team/Malware Analysis/Linux/Static Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md"
+                "file": "Notes/Blue Team/Malware Analysis/Linux/Static Analysis.md"
               }
             }
           },
@@ -168,11 +168,11 @@
   },
   "active": "ecbb4bd8c9ffa155",
   "lastOpenFiles": [
+    "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
     "Assets/Malware Analysis/msdn_004_syscall_instruction.webp",
     "Assets/Malware Analysis/x64dbg_readprocessmemory.webp",
-    "Notes/Blue Team/Malware Analysis/Linux/Untitled.md",
+    "Notes/Blue Team/Malware Analysis/Linux/Static Analysis.md",
     "README.md",
-    "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
     "Assets/Malware Analysis/wininternals_syscall.webp",
     "Assets/Images/Digital Forensics/Untitled.md",
     "Assets/Digital Forensics/Untitled.md",
@@ -212,7 +212,6 @@
     "Pasted image 20240909072150.png",
     "Notes/Network Analysis/Images/PDU.webp",
     "Pasted image 20240909052702.png",
-    "Network Analysis/Images/PDU.webp",
-    "Network Analysis/Images/net_models_pdu2.webp"
+    "Network Analysis/Images/PDU.webp"
   ]
 }
