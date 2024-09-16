@@ -168,6 +168,7 @@
   },
   "active": "ecbb4bd8c9ffa155",
   "lastOpenFiles": [
+    "Assets/Malware Analysis/msdn_004_syscall_instruction.webp",
     "Assets/Malware Analysis/x64dbg_readprocessmemory.webp",
     "Notes/Blue Team/Malware Analysis/Linux/Untitled.md",
     "README.md",
@@ -212,7 +213,6 @@
     "Notes/Network Analysis/Images/PDU.webp",
     "Pasted image 20240909052702.png",
     "Network Analysis/Images/PDU.webp",
-    "Network Analysis/Images/net_models_pdu2.webp",
-    "Network Analysis/Images/net_models4.webp"
+    "Network Analysis/Images/net_models_pdu2.webp"
   ]
 }
