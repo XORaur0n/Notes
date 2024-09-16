@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
+                "file": "Assets/Images/Digital Forensics/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
+                "file": "Assets/Images/Digital Forensics/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
+                "file": "Assets/Images/Digital Forensics/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md"
+                "file": "Assets/Images/Digital Forensics/Untitled.md"
               }
             }
           },
@@ -168,8 +168,10 @@
   },
   "active": "ecbb4bd8c9ffa155",
   "lastOpenFiles": [
-    "Assets/Images/Malware Analysis/wininternals_syscall.webp",
     "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
+    "Assets/Images/Digital Forensics/Untitled.md",
+    "Assets/Images/Digital Forensics",
+    "Assets/Images/Malware Analysis/wininternals_syscall.webp",
     "Assets/Images/Malware.md",
     "Assets/Images/MalwareAnalysis/wininternals_syscall.md",
     "Assets/Images/MalwareAnalysis",
@@ -205,7 +207,6 @@
     "Notes/Blue Team/Network Analysis/Anomalous Telnet Connections.md",
     "Notes/Blue Team/Network Analysis/Anomalous HTTP Requests.md",
     "Pasted image 20240911132000.png",
-    "Notes/Programming & Scripting/Assembly/x86_32",
     "Images/Pasted image 20240909072150.png",
     "Pasted image 20240909072150.png",
     "Notes/Network Analysis/Images/PDU.webp",
