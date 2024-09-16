@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Assets/Images/Malware Analysis/wininternals_syscall.webp"
+                "file": "Assets/Malware Analysis/wininternals_syscall.webp"
               }
             }
           },
@@ -166,18 +166,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ecbb4bd8c9ffa155",
+  "active": "acb270e06873b2de",
   "lastOpenFiles": [
     "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
     "Assets/Images/Digital Forensics/Untitled.md",
     "Assets/Images/Digital Forensics",
-    "Assets/Images/Malware Analysis/wininternals_syscall.webp",
+    "Assets/Malware Analysis/wininternals_syscall.webp",
     "Assets/Images/Malware.md",
     "Assets/Images/MalwareAnalysis/wininternals_syscall.md",
     "Assets/Images/MalwareAnalysis",
     "Assets/Images",
     "Assets/Images.md",
-    "Assets/Images/Malware Analysis",
+    "Assets/Malware Analysis",
     "Assets/Malware Analysis.md",
     "Assets",
     "New folder",
