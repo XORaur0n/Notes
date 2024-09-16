@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
+                "file": "Notes/Blue Team/Malware Analysis/Linux/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
+                "file": "Notes/Blue Team/Malware Analysis/Linux/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
+                "file": "Notes/Blue Team/Malware Analysis/Linux/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md"
+                "file": "Notes/Blue Team/Malware Analysis/Linux/Untitled.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "ecbb4bd8c9ffa155",
   "lastOpenFiles": [
-    "Assets/Malware Analysis/wininternals_syscall.webp",
     "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
+    "Notes/Blue Team/Malware Analysis/Linux/Untitled.md",
+    "Assets/Malware Analysis/wininternals_syscall.webp",
     "Assets/Images/Digital Forensics/Untitled.md",
     "Assets/Digital Forensics/Untitled.md",
     "Assets/Digital Forensics",
