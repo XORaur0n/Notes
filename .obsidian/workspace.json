@@ -11,6 +11,16 @@
             "id": "c41dfd0454ca9ee6",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Images/Malware Analysis/wininternals_syscall.webp"
+              }
+            }
+          },
+          {
+            "id": "ecbb4bd8c9ffa155",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
@@ -19,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,11 +166,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c41dfd0454ca9ee6",
+  "active": "ecbb4bd8c9ffa155",
   "lastOpenFiles": [
+    "Assets/Images/Malware Analysis/wininternals_syscall.webp",
+    "Assets/Images",
+    "Assets/Images.md",
+    "Assets/Images/Malware Analysis",
+    "Assets/Malware Analysis.md",
+    "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
+    "Assets",
+    "New folder",
     "wininternals_syscall.webp",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Shellcode.md",
-    "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
     "Notes/Blue Team/Malware Analysis/Linux",
     "Notes/Blue Team/Malware Analysis/Windows",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Shellcoding Tools.md",
@@ -187,13 +205,7 @@
     "Pasted image 20240911132000.png",
     "Notes/Programming & Scripting/Assembly/x86_32",
     "Notes/Programming & Scripting/Assembly/Untitled.md",
-    "Notes/Blue Team/Signatures/Suricata (Network).md",
-    "Notes/Blue Team/Signatures/KQL (File, Network, and Host).md",
     "Notes/Red Team/Bug Bounties",
-    "Notes/Red Team/Binary Exploitation",
-    "Notes/Red Team/Web App Penetration Testing",
-    "Notes/Programming & Scripting",
-    "Notes/Helpful Commands",
     "Images/Pasted image 20240909072150.png",
     "Pasted image 20240909072150.png",
     "Notes/Network Analysis/Images/PDU.webp",
