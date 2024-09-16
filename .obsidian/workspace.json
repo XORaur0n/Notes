@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Linux/Untitled.md",
+                "file": "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Linux/Untitled.md",
+                "file": "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Linux/Untitled.md",
+                "file": "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Linux/Untitled.md"
+                "file": "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "ecbb4bd8c9ffa155",
   "lastOpenFiles": [
-    "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
     "Notes/Blue Team/Malware Analysis/Linux/Untitled.md",
+    "README.md",
+    "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
     "Assets/Malware Analysis/wininternals_syscall.webp",
     "Assets/Images/Digital Forensics/Untitled.md",
     "Assets/Digital Forensics/Untitled.md",
@@ -205,7 +206,6 @@
     "Notes/Blue Team/Network Analysis/Helpful Networking.md",
     "Notes/Blue Team/Network Analysis/Fragmentation Attacks.md",
     "Notes/Blue Team/Network Analysis/Deauthentication Attacks.md",
-    "Notes/Blue Team/Network Analysis/ARP Spoofing.md",
     "Pasted image 20240911132000.png",
     "Images/Pasted image 20240909072150.png",
     "Pasted image 20240909072150.png",
