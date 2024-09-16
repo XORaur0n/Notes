@@ -157,6 +157,7 @@
   },
   "active": "c41dfd0454ca9ee6",
   "lastOpenFiles": [
+    "wininternals_syscall.webp",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Shellcode.md",
     "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
     "Notes/Blue Team/Malware Analysis/Linux",
@@ -188,7 +189,6 @@
     "Notes/Programming & Scripting/Assembly/Untitled.md",
     "Notes/Blue Team/Signatures/Suricata (Network).md",
     "Notes/Blue Team/Signatures/KQL (File, Network, and Host).md",
-    "Notes/Blue Team/Signatures/Snort (Network).md",
     "Notes/Red Team/Bug Bounties",
     "Notes/Red Team/Binary Exploitation",
     "Notes/Red Team/Web App Penetration Testing",
