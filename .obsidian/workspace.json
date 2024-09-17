@@ -170,6 +170,7 @@
   },
   "active": "7d2916cd5a2a4af9",
   "lastOpenFiles": [
+    "Assets/Malware Analysis/ida__003_startupinfo.webp",
     "Assets/Malware Analysis/ida__002_initial_stack.webp",
     "Assets/Malware Analysis/ida__001_start.webp",
     "Assets/Malware Analysis/ida_text_view_arrows.webp",
@@ -198,7 +199,6 @@
     "Assets/Malware Analysis.md",
     "Assets",
     "New folder",
-    "wininternals_syscall.webp",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Shellcode.md",
     "Notes/Blue Team/Malware Analysis/Linux",
     "Notes/Blue Team/Malware Analysis/Windows",
