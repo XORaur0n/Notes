@@ -170,6 +170,7 @@
   },
   "active": "7d2916cd5a2a4af9",
   "lastOpenFiles": [
+    "Assets/Malware Analysis/ida__002_initial_stack.webp",
     "Assets/Malware Analysis/ida__001_start.webp",
     "Assets/Malware Analysis/ida_text_view_arrows.webp",
     "Assets/Malware Analysis/ida_text_view.webp",
@@ -214,7 +215,6 @@
     "Notes/Programming & Scripting/Assembly/x86_64/Instructions & Flags.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/File Structure.md",
     "Notes/Programming & Scripting/Python3/Randomization and Lists.md",
-    "Notes/Programming & Scripting/Assembly/x86_64/Basics",
-    "Pasted image 20240911132000.png"
+    "Notes/Programming & Scripting/Assembly/x86_64/Basics"
   ]
 }
