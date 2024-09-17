@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Windows/Static Analysis.md",
+                "file": "Notes/Blue Team/Malware Analysis/Windows/Reverse Engineering & Code Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Windows/Static Analysis.md",
+                "file": "Notes/Blue Team/Malware Analysis/Windows/Reverse Engineering & Code Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Windows/Static Analysis.md",
+                "file": "Notes/Blue Team/Malware Analysis/Windows/Reverse Engineering & Code Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Windows/Static Analysis.md"
+                "file": "Notes/Blue Team/Malware Analysis/Windows/Reverse Engineering & Code Analysis.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   },
   "active": "7d2916cd5a2a4af9",
   "lastOpenFiles": [
-    "Notes/Blue Team/Malware Analysis/Linux/Static Analysis.md",
     "Notes/Blue Team/Malware Analysis/Windows/Static Analysis.md",
+    "Notes/Blue Team/Malware Analysis/Windows/Reverse Engineering & Code Analysis.md",
+    "Notes/Blue Team/Malware Analysis/Linux/Static Analysis.md",
     "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
     "Assets/Malware Analysis/msdn_004_syscall_instruction.webp",
     "Assets/Malware Analysis/x64dbg_readprocessmemory.webp",
@@ -209,7 +210,6 @@
     "Notes/Programming & Scripting/Python3/Randomization and Lists.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics",
     "Notes/Blue Team/Network Analysis/Helpful Networking.md",
-    "Notes/Blue Team/Network Analysis/Fragmentation Attacks.md",
     "Pasted image 20240911132000.png",
     "Images/Pasted image 20240909072150.png",
     "Pasted image 20240909072150.png",
