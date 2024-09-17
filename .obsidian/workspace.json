@@ -170,6 +170,8 @@
   },
   "active": "7d2916cd5a2a4af9",
   "lastOpenFiles": [
+    "Assets/Malware Analysis/ida_005_main.webp",
+    "Assets/Malware Analysis/ida_004_intmain.webp",
     "Assets/Malware Analysis/ida__003_startupinfo.webp",
     "Assets/Malware Analysis/ida__002_initial_stack.webp",
     "Assets/Malware Analysis/ida__001_start.webp",
@@ -183,9 +185,7 @@
     "Assets/Malware Analysis/disassembly.webp",
     "Notes/Blue Team/Malware Analysis/Windows/Static Analysis.md",
     "Assets/Malware Analysis/msdn_004_syscall_instruction.webp",
-    "Assets/Malware Analysis/x64dbg_readprocessmemory.webp",
     "README.md",
-    "Assets/Malware Analysis/wininternals_syscall.webp",
     "Assets/Images/Digital Forensics/Untitled.md",
     "Assets/Digital Forensics/Untitled.md",
     "Assets/Digital Forensics",
