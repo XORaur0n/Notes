@@ -168,8 +168,8 @@
   },
   "active": "ecbb4bd8c9ffa155",
   "lastOpenFiles": [
-    "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
     "Notes/Blue Team/Malware Analysis/Linux/Static Analysis.md",
+    "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
     "Notes/Blue Team/Malware Analysis/Windows/Static Analysis.md",
     "Assets/Malware Analysis/msdn_004_syscall_instruction.webp",
     "Assets/Malware Analysis/x64dbg_readprocessmemory.webp",
