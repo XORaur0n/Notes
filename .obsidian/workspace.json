@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Linux/Static Analysis.md",
+                "file": "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,13 +168,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acb270e06873b2de",
+  "active": "7d2916cd5a2a4af9",
   "lastOpenFiles": [
+    "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
+    "Notes/Blue Team/Malware Analysis/Linux/Static Analysis.md",
+    "Notes/Blue Team/Malware Analysis/Windows/Reverse Engineering & Code Analysis.md",
     "Assets/Malware Analysis/disassembly.webp",
     "Notes/Blue Team/Malware Analysis/Windows/Static Analysis.md",
-    "Notes/Blue Team/Malware Analysis/Windows/Reverse Engineering & Code Analysis.md",
-    "Notes/Blue Team/Malware Analysis/Linux/Static Analysis.md",
-    "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
     "Assets/Malware Analysis/msdn_004_syscall_instruction.webp",
     "Assets/Malware Analysis/x64dbg_readprocessmemory.webp",
     "README.md",
@@ -214,7 +214,6 @@
     "Images/Pasted image 20240909072150.png",
     "Pasted image 20240909072150.png",
     "Notes/Network Analysis/Images/PDU.webp",
-    "Pasted image 20240909052702.png",
-    "Network Analysis/Images/PDU.webp"
+    "Pasted image 20240909052702.png"
   ]
 }
