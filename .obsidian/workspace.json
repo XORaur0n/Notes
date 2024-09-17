@@ -170,6 +170,7 @@
   },
   "active": "7d2916cd5a2a4af9",
   "lastOpenFiles": [
+    "Assets/Malware Analysis/ida_graph_view.webp",
     "Assets/Malware Analysis/ida_intro_views.webp",
     "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
     "Notes/Blue Team/Malware Analysis/Linux/Static Analysis.md",
@@ -214,7 +215,6 @@
     "Pasted image 20240911132000.png",
     "Images/Pasted image 20240909072150.png",
     "Pasted image 20240909072150.png",
-    "Notes/Network Analysis/Images/PDU.webp",
-    "Pasted image 20240909052702.png"
+    "Notes/Network Analysis/Images/PDU.webp"
   ]
 }
