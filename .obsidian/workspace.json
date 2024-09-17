@@ -8,17 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c41dfd0454ca9ee6",
+            "id": "ecbb4bd8c9ffa155",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Malware Analysis/wininternals_syscall.webp"
+                "file": "Notes/Blue Team/Malware Analysis/Linux/Static Analysis.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "ecbb4bd8c9ffa155",
+            "id": "7d2916cd5a2a4af9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,11 +168,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ecbb4bd8c9ffa155",
+  "active": "7d2916cd5a2a4af9",
   "lastOpenFiles": [
-    "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
     "Notes/Blue Team/Malware Analysis/Linux/Static Analysis.md",
     "Notes/Blue Team/Malware Analysis/Windows/Static Analysis.md",
+    "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
     "Assets/Malware Analysis/msdn_004_syscall_instruction.webp",
     "Assets/Malware Analysis/x64dbg_readprocessmemory.webp",
     "README.md",
