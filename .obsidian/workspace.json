@@ -170,6 +170,7 @@
   },
   "active": "7d2916cd5a2a4af9",
   "lastOpenFiles": [
+    "Assets/Malware Analysis/ida_010_getaddrinfo.webp",
     "Assets/Malware Analysis/ida_009_after_sandbox.webp",
     "Assets/Malware Analysis/ida_008_shellexecutea.webp",
     "Pasted image 20240917121937.png",
@@ -180,7 +181,6 @@
     "Assets/Malware Analysis/ida__003_startupinfo.webp",
     "Assets/Malware Analysis/ida__002_initial_stack.webp",
     "Assets/Malware Analysis/ida__001_start.webp",
-    "Assets/Malware Analysis/ida_text_view_arrows.webp",
     "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
     "Notes/Blue Team/Malware Analysis/Linux/Static Analysis.md",
     "Notes/Blue Team/Malware Analysis/Windows/Reverse Engineering & Code Analysis.md",
