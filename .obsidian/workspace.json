@@ -168,8 +168,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d2916cd5a2a4af9",
+  "active": "acb270e06873b2de",
   "lastOpenFiles": [
+    "Assets/Malware Analysis/assembly_edit.png",
     "Assets/Malware Analysis/x64dbg_003_cmp.webp",
     "Assets/Malware Analysis/x64dbg_002_strings.md",
     "Notes/Blue Team/Malware Analysis/Windows/Debugging Malicious Code.md",
@@ -187,7 +188,6 @@
     "Assets/Malware Analysis/ida_19_reg.webp",
     "Assets/Malware Analysis/ida_018_readfile.webp",
     "Assets/Malware Analysis/ida_017_createfile.webp",
-    "Assets/Malware Analysis/ida_016_svchost_download.webp",
     "Notes/Blue Team/Malware Analysis/Linux/Static Analysis.md",
     "README.md",
     "Assets/Images/Digital Forensics/Untitled.md",
