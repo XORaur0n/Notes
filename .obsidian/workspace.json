@@ -170,6 +170,8 @@
   },
   "active": "7d2916cd5a2a4af9",
   "lastOpenFiles": [
+    "Assets/Malware Analysis/patch3_.webp",
+    "Assets/Malware Analysis/patch3.webp",
     "Assets/Malware Analysis/x64dbg_006_jne.webp",
     "Assets/Malware Analysis/assembly_edit.png",
     "Assets/Malware Analysis/x64dbg_003_cmp.webp",
@@ -186,8 +188,6 @@
     "Assets/Malware Analysis/ida_023_procInj.webp",
     "ida_023_procInj.webp",
     "Assets/Malware Analysis/ida_022_notepad.webp",
-    "Assets/Malware Analysis/ida_19_reg.webp",
-    "Assets/Malware Analysis/ida_018_readfile.webp",
     "Notes/Blue Team/Malware Analysis/Linux/Static Analysis.md",
     "README.md",
     "Assets/Images/Digital Forensics/Untitled.md",
