@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/The Stack.md",
+                "file": "Notes/Blue Team/Malware Analysis/Windows/Reverse Engineering & Code Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/The Stack.md",
+                "file": "Notes/Blue Team/Malware Analysis/Windows/Reverse Engineering & Code Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/The Stack.md",
+                "file": "Notes/Blue Team/Malware Analysis/Windows/Reverse Engineering & Code Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Programming & Scripting/Assembly/x86_64/Basics/The Stack.md"
+                "file": "Notes/Blue Team/Malware Analysis/Windows/Reverse Engineering & Code Analysis.md"
               }
             }
           },
@@ -170,11 +170,12 @@
   },
   "active": "7d2916cd5a2a4af9",
   "lastOpenFiles": [
+    "Notes/Blue Team/Malware Analysis/Windows/Debugging Malicious Code.md",
+    "Notes/Programming & Scripting/Assembly/x86_64/Basics/The Stack.md",
     "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
     "Notes/Blue Team/Malware Analysis/Windows/Static Analysis.md",
     "Notes/Blue Team/Malware Analysis/Windows/Reverse Engineering & Code Analysis.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Instructions & Flags.md",
-    "Notes/Blue Team/Malware Analysis/Windows/Debugging Malicious Code.md",
     "Assets/Malware Analysis/ida_024_shellcode.webp",
     "Assets/Malware Analysis/ida_023_procInj.webp",
     "ida_023_procInj.webp",
@@ -209,7 +210,6 @@
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Computer Architecture.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Registers, Addresses, and Data Types.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Syscalls.md",
-    "Notes/Programming & Scripting/Assembly/x86_64/Basics/The Stack.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Instruction Set Architectures (ISAs).md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Functions.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/CPU Architecture.md",
