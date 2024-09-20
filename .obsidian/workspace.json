@@ -168,8 +168,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d2916cd5a2a4af9",
+  "active": "acb270e06873b2de",
   "lastOpenFiles": [
+    "Assets/Malware Analysis/x64dbg_001_views.webp",
     "Notes/Blue Team/Malware Analysis/Windows/Reverse Engineering & Code Analysis.md",
     "Notes/Blue Team/Malware Analysis/Windows/Debugging Malicious Code.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/The Stack.md",
@@ -214,7 +215,6 @@
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Functions.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/CPU Architecture.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/File Structure.md",
-    "Notes/Programming & Scripting/Python3/Randomization and Lists.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics"
   ]
 }
