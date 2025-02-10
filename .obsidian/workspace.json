@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Linux/Static Analysis.md",
+                "file": "Notes/Blue Team/Malware Analysis/Windows/Reverse Engineering & Code Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Linux/Static Analysis.md",
+                "file": "Notes/Blue Team/Malware Analysis/Windows/Reverse Engineering & Code Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Linux/Static Analysis.md",
+                "file": "Notes/Blue Team/Malware Analysis/Windows/Reverse Engineering & Code Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Team/Malware Analysis/Linux/Static Analysis.md"
+                "file": "Notes/Blue Team/Malware Analysis/Windows/Reverse Engineering & Code Analysis.md"
               }
             }
           },
@@ -170,8 +170,10 @@
   },
   "active": "7d2916cd5a2a4af9",
   "lastOpenFiles": [
-    "Notes/Blue Team/Malware Analysis/Windows/Static Analysis.md",
     "Notes/Blue Team/Malware Analysis/Windows/Debugging Malicious Code.md",
+    "Notes/Blue Team/Malware Analysis/Windows/Reverse Engineering & Code Analysis.md",
+    "Notes/Blue Team/Malware Analysis/Linux/Static Analysis.md",
+    "Notes/Blue Team/Malware Analysis/Windows/Static Analysis.md",
     "Assets/Malware Analysis/patch3_.webp",
     "Assets/Malware Analysis/patch3.webp",
     "Assets/Malware Analysis/x64dbg_006_jne.webp",
@@ -180,14 +182,12 @@
     "Assets/Malware Analysis/x64dbg_002_strings.md",
     "Assets/Malware Analysis/x64dbg_002_strings_.webp",
     "Assets/Malware Analysis/x64dbg_001_views.webp",
-    "Notes/Blue Team/Malware Analysis/Windows/Reverse Engineering & Code Analysis.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/The Stack.md",
     "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Instructions & Flags.md",
     "Assets/Malware Analysis/ida_024_shellcode.webp",
     "Assets/Malware Analysis/ida_023_procInj.webp",
     "ida_023_procInj.webp",
-    "Notes/Blue Team/Malware Analysis/Linux/Static Analysis.md",
     "README.md",
     "Assets/Images/Digital Forensics/Untitled.md",
     "Assets/Digital Forensics/Untitled.md",
