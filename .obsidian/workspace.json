@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Labs 23597751566c80f782c9d2378456a3a9.md",
+                "file": "Notes/FOR508_Labs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Labs 23597751566c80f782c9d2378456a3a9"
+              "title": "FOR508_Labs"
             }
           }
         ]
@@ -182,7 +182,7 @@
   "active": "bb40017fc61f323e",
   "lastOpenFiles": [
     "README.md",
-    "Notes/Labs 23597751566c80f782c9d2378456a3a9.md",
+    "Notes/FOR508_Labs.md",
     "Untitled.md",
     "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
     "Notes/Blue Team/Malware Analysis/Windows/Reverse Engineering & Code Analysis.md",
