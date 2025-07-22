@@ -1,17 +1,17 @@
 @media print {
-  /* Body text: clean, readable */
-  body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  /* Body text: Notion sans-serif stack */
+  body, p, li, table, th, td {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif !important;
     font-size: 11pt;
     line-height: 1.6;
     color: #111 !important;
     background: #fff !important;
   }
 
-  /* Headings: elegant serif, subtle size */
+  /* Headings: slightly larger, bold */
   h1, h2, h3, h4, h5, h6 {
-    font-family: "Georgia", "Times New Roman", serif !important;
-    font-weight: 700;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif !important;
+    font-weight: 600;
     color: #000 !important;
     margin: 1.2em 0 0.5em 0;
     line-height: 1.3;
@@ -21,23 +21,22 @@
   h3 { font-size: 16pt; }
   h4, h5, h6 { font-size: 14pt; }
 
-  /* Code blocks: subtle gray background */
+  /* Code blocks: Notion monospace stack */
   pre, code {
-    font-family: "Courier New", Courier, monospace !important;
+    font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace !important;
     background-color: #f5f5f5;
     color: #333;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 0.4em 0.6em;
+    border-radius: 6px;
+    padding: 0.5em 0.7em;
     font-size: 10pt;
     overflow-x: auto;
   }
 
-  /* Inline code: lighter touch */
+  /* Inline code: subtle background */
   code {
     background-color: #f0f0f0;
-    padding: 0.1em 0.3em;
-    border-radius: 3px;
+    border-radius: 4px;
+    padding: 0.2em 0.4em;
   }
 
   /* Lists: clean spacing */
@@ -45,14 +44,14 @@
     margin-left: 1.5em;
   }
 
-  /* Tables: thin lines, good spacing */
+  /* Tables: light borders, good spacing */
   table {
     border-collapse: collapse;
     width: 100%;
   }
   th, td {
-    border: 1px solid #ccc;
-    padding: 6px 8px;
+    border: 1px solid #ddd;
+    padding: 6px 10px;
     text-align: left;
   }
 
@@ -61,7 +60,14 @@
     max-width: 100%;
     height: auto;
   }
+
+  /* Force Notion sans-serif globally (kill random fonts) */
+  * {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif !important;
+  }
 }
+
+/* Remove PrismJS / CodeMirror syntax highlighting */
 pre span, code span {
   all: unset !important;
   color: inherit !important;
