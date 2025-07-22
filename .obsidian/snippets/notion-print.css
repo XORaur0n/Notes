@@ -62,3 +62,8 @@
     height: auto;
   }
 }
+pre span, code span {
+  all: unset !important;
+  color: inherit !important;
+  background: none !important;
+}
