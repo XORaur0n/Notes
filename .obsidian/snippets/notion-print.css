@@ -1,0 +1,53 @@
+@media print {
+  /* Body text - clean sans-serif */
+  body, p {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-size: 12pt;
+    line-height: 1.5;
+    color: #000 !important;
+  }
+
+  /* Headings - elegant serif */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Georgia", "Times New Roman", serif !important;
+    font-weight: 700;
+    color: #000 !important;
+    margin-top: 1.2em;
+    margin-bottom: 0.5em;
+  }
+
+  /* Code blocks and inline code - monospace */
+  pre, code {
+    font-family: "Courier New", Courier, monospace !important;
+    font-size: 11pt;
+    background: #f5f5f5;
+    color: #000;
+    padding: 0.2em 0.4em;
+    border-radius: 4px;
+  }
+
+  /* Remove backgrounds and colors */
+  * {
+    background: #fff !important;
+    color: #000 !important;
+  }
+
+  /* Images scale properly */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* Table styling for print */
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  table, th, td {
+    border: 1px solid #000;
+  }
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+}
