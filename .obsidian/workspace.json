@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/FOR508_Labs.md",
+                "file": "Notes/FOR508_Timestamps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FOR508_Labs"
+              "title": "FOR508_Timestamps"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "bb40017fc61f323e",
   "lastOpenFiles": [
-    "README.md",
     "Notes/FOR508_Labs.md",
+    "Notes/FOR508_Timestamps.md",
+    "README.md",
     "Untitled.md",
     "Notes/Blue Team/Malware Analysis/Windows/Windows Internals.md",
     "Notes/Blue Team/Malware Analysis/Windows/Reverse Engineering & Code Analysis.md",
@@ -225,7 +226,6 @@
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Registers, Addresses, and Data Types.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Syscalls.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics/Instruction Set Architectures (ISAs).md",
-    "Notes/Programming & Scripting/Assembly/x86_64/Basics/Functions.md",
     "Notes/Programming & Scripting/Assembly/x86_64/Basics"
   ]
 }
